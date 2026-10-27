@@ -1,0 +1,594 @@
+﻿SR Number,Severity,Category,Root Cause Category,Subject,Status,Root Cause,Resolution,Office,Country/Region,Problem Description,Customer Category,Customer,Task Handler Group,Task Handler,Requester,Created Time,Created By,Carrier,SR Type,Issue/Action Type,SR Owner Group,SR Owner,SR Handler Group,SR Handler,Helpdesk Type,Last Modified By,Last Modified Time,Report Channel,Resolved By,Resolved At,Root Cause Detail,Followed By PCRS(s),Caused By PCRS(s),SR Tag,Reported From,Collaborated Tickets,Department,Company,Year,Month,Week,CargoSmart ID,User Email Address,Receiving Time
+SR-10334409,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),CLO02 Recurring EEC Rejections,Closed,General Inquiry,"Checked mapping script regarding DischargePort conversion, coordinating with dev and ongoing coordination via email",MNL,PHILIPPINES,"@EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) We are regularly getting rejections for empty loading out of CLO02 on the ECC1 and ECC2 service. The plans are to standard PODs -- and we load to these same PODs on the same vessels from other NA ports without system event issues. Are you able to review why CLO02 alone has issues on these services, and if a solution is possible to prevent rejection handling going forward? Matthew Hansen| Sr. Manager, Equipment Flow | OOCL (USA) Inc. | 10913 S. River Front Pkwy, Ste 200, South Jordan, UT 84095 | 801-518-7546",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/27/2026 07:25:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:46:03,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:46:02,,,,,End User,,ISDC,OPI,2026,8,35,,,
+SR-10334385,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),ENC: RES: POD change request bkg 2332901950,Closed,General Inquiry,"Checked if mentioned file was processed, coordinated with partner to pickup pending files in server. Ongoing coordination via email",MNL,PHILIPPINES,"@EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) Please note that the last EDI received was on July 30. We made a change to the POD, and the terminal reported that it did not receive it Was there an error during transmission? Best Regards, Michel Aguiar Customer Service - OOCL Brazil G: (13) 3211-9222 (9332) E: Brazilcsv@oocl.com W: www.oocl.com A: Al. Armênio Mendes, 66 - 20° andar – Cj. 2001 Santos – São Paulo – Brasil – CEP: 11035-260 De: Prontidão - Portonave <prontidao@portonave.com.br> Enviada em: quarta-feira, 26 de agosto de 2026 16:12 Para: Carlos Henrique Patricio Santos de Santana <carlos.santana@timelognet.com>; brazilcsv/Brazil Customer Services Contact <brazilcsv@oocl.com>; espacodecomercio@gmail.com; Prontidão - Portonave <prontidao@portonave.com.br>; prontidao@m-ihpth89dfxipj990wvuq9fyvmom12lmgwxujt6g2xdq8f4k7a.41-wlz4eak.bra18.case.salesforce.com Cc: brazilsales/Brazil Sales Contact <brazilsales@oocl.com>; MARCUS VINICIUS (M&S-CSBR/SAO) <marcus.vinicius@oocl.com>; espacotrading.paulo@gmail.com; NAGLATOB/NAG Latin America Outbound Doc <NAGLATOB@oocl.com> Assunto: RES: RES: POD change request bkg 2332901950 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Boa tarde, Até o momento sem EDI recebido. O último EDI recebido foi em 30/07 04:15 para CNSHA. Atenciosamente, Kallyne Maira Rosa Pereira Departamento de Operações - Exportação kpereira@portonave.com.br Fone: +55 (47) 2104 3460 De: Carlos Henrique Patricio Santos de Santana <carlos.santana@timelognet.com> Enviada em: quarta-feira, 26 de agosto de 2026 16:09 Para: brazilcsv@oocl.com; espacodecomercio@gmail.com; Prontidão - Portonave <prontidao@portonave.com.br>; prontidao@m-ihpth89dfxipj990wvuq9fyvmom12lmgwxujt6g2xdq8f4k7a.41-wlz4eak.bra18.case.salesforce.com Cc: brazilsales@oocl.com; marcus.vinicius@oocl.com; espacotrading.paulo@gmail.com; NAGLATOB@oocl.com Assunto: RE: RES: POD change request bkg 2332901950 ATENÇÃO: E-mail externo. Não clique em links ou abra anexos, a menos que você reconheça o remetente e tenha certeza de que o conteúdo é seguro. Boa tarde, @Prontidão - Portonave, tudo bem? Consegue nos ajudar? Armador informa que o EDI foi enviado. 2332901950 Atenciosamente, C. Henrique P. Santos de S. De: brazilcsv@oocl.com <brazilcsv@oocl.com> Enviado: quarta-feira, 26 de agosto de 2026 16:06 Para: carlos.santana@timelognet.com <carlos.santana@timelognet.com>; espacodecomercio@gmail.com <espacodecomercio@gmail.com> Cc: brazilsales@oocl.com <brazilsales@oocl.com>; marcus.vinicius@oocl.com <marcus.vinicius@oocl.com>; espacotrading.paulo@gmail.com <espacotrading.paulo@gmail.com>; NAGLATOB@oocl.com <NAGLATOB@oocl.com> Assunto: RES: RES: POD change request bkg 2332901950 Dear Carlos, Good day!!! Please note that the EDI was sent on August 24 at 2:14pm, as soon as we made the change to the POD. Best Regards, Michel Aguiar Customer Service - OOCL Brazil G: (13) 3211-9222 (9332) E: Brazilcsv@oocl.com W: www.oocl.com A: Al. Armênio Mendes, 66 - 20° andar – Cj. 2001 Santos – São Paulo – Brasil – CEP: 11035-260 De: Carlos Henrique Patricio Santos de Santana <carlos.santana@timelognet.com> Enviada em: quarta-feira, 26 de agosto de 2026 15:37 Para: espacodecomercio <espacodecomercio@gmail.com>; brazilcsv/Brazil Customer Services Contact <brazilcsv@oocl.com> Cc: brazilsales/Brazil Sales Contact <brazilsales@oocl.com>; MARCUS VINICIUS (M&S-CSBR/SAO) <marcus.vinicius@oocl.com>; espacotrading.paulo@gmail.com; NAGLATOB/NAG Latin America Outbound Doc <NAGLATOB@oocl.com> Assunto: RE: RES: POD change request bkg 2332901950 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Good afternoon, @brazilcsv Please note that the port has advised they have not received the EDI with the adjusted POD., Could you resend the EDI to the port and allow us time to make changes? The units are already at the port. Atenciosamente, C. Henrique P. Santos de S. De: espacodecome",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/27/2026 04:26:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:45:16,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:45:16,,,,,End User,,ISDC,OPI,2026,8,35,,,
+SR-10334371,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: RESERVAS MN LAKONIA / CALL SIGN ERRONEO ,Closed,General Inquiry,"Checked IR4 if call sign data extracted is correct, ongoing coordination via email",MNL,PHILIPPINES,"CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Dear @EDISUPP@oocl.com Please your help The edi inform wrong call sign for LAKONIA Our oocl edi inform the call sign VROG2 but the correct is 5LHF7. Thanks for your help! Regards! De: Edgar.Baeza@oocl.com <Edgar.Baeza@oocl.com> Enviado: miércoles, 26 de agosto de 2026 12:56 Para: victor.alvarez@dpworld.com <victor.alvarez@dpworld.com>; carrapa/Pablo Carrasco(Chile) <carrapa@coscoshipping.cl>; pedro.hamann@oocl.com <pedro.hamann@oocl.com>; WRiffo/Walter Riffo (SA/Chile/SCL) <WRiffo@coscoshipping.cl>; CQuinter/Cristian Quintero (SA/Chile/SCL) <cquinter@coscoshipping.cl> Cc: cl.plq_deposito@dpworld.com <cl.plq_deposito@dpworld.com>; Chile Operations <Operations@coscoshipping.cl>; Ien-Chun (Monica) Lan <Lanic@coscoshipping.cl>; scherke/Kevin Schergel(Chile) <scherke@coscoshipping.cl> Asunto: Re: RESERVAS MN LAKONIA / CALL SIGN ERRONEO @CQuinter/Cristian Quintero (SA/Chile/SCL) Buenas Tardes, Esperando que te encuentres bien favor tu ayuda con lo indicado por DPW LQN por discrepancia en la nave Lakonia en el edi . Donde dice: VROG2 Debe decir: 5LHF7 Se adjunta ejemplo para buen orden: Quedamos atentos a su soporte, gracias. Saludos/Best Regards Edgar Baeza V. Export Customer Service Avenida Alonso de Cordova 5670 Piso 9, OF 904 Las Condes Santiago PH: (56) 226357004 M (56) 990154114 Email: edgar.baeza@oocl.com From: Victor Alvarez <victor.alvarez@dpworld.com> Sent: Tuesday, August 25, 2026 2:00 PM To: EDGAR BAEZA (CSV-CSCH/STI) <Edgar.Baeza@oocl.com>; PABLO CARRASCO (OPS-CSCH/STI) <carrapa@coscoshipping.cl>; PEDRO HAMANN (M&S-CSCH/STI) <pedro.hamann@oocl.com>; WALTER RIFFO (CSV-CSCH/STI) <WRiffo@coscoshipping.cl> Cc: Deposito_LQN <cl.plq_deposito@dpworld.com>; Operations@coscoshipping.cl <Operations@coscoshipping.cl> Subject: RE: RESERVAS MN LAKONIA / CALL SIGN ERRONEO CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Hola Edgar Estamos trabajando con requerimientos para la MN LAKONIA viaje 341. De todos modos, es necesario que para todos los viajes de esa nave sea modificado el call sign, adjunto imagen de EDI. Slds, Victor Alvarez Document Supervisor - Operations-Depot DP World Lirquen M +569 65208716 E victor.alvarez@dpworld.com De: Edgar.Baeza@oocl.com <Edgar.Baeza@oocl.com> Enviado el: martes, 25 de agosto de 2026 13:14 Para: Victor Alvarez <victor.alvarez@dpworld.com>; carrapa@coscoshipping.cl; pedro.hamann@oocl.com; WRiffo@coscoshipping.cl CC: Deposito_LQN <cl.plq_deposito@dpworld.com>; Operations@coscoshipping.cl Asunto: Re: RESERVAS MN LAKONIA / CALL SIGN ERRONEO Victor en nuestro sistema aparece con la MN Lakonia 340N , a cuál iaje y sentido debería cambiarlo? Quedo atento para gestionar en el sistema, gracias. Saludos/Best Regards Edgar Baeza V. Export Customer Service Avenida Alonso de Cordova 5670 Piso 9, OF 904 Las Condes Santiago PH: (56) 226357004 M (56) 990154114 Email: edgar.baeza@oocl.com From: Victor Alvarez <victor.alvarez@dpworld.com> Sent: Tuesday, August 25, 2026 12:46 PM To: PABLO CARRASCO (OPS-CSCH/STI) <carrapa@coscoshipping.cl>; EDGAR BAEZA (CSV-CSCH/STI) <Edgar.Baeza@oocl.com>; PEDRO HAMANN (M&S-CSCH/STI) <pedro.hamann@oocl.com>; WALTER RIFFO (CSV-CSCH/STI) <WRiffo@coscoshipping.cl> Cc: Deposito_LQN <cl.plq_deposito@dpworld.com>; Chile Operations <Operations@coscoshipping.cl> Subject: RE: RESERVAS MN LAKONIA / CALL SIGN ERRONEO CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Buenas tardes Para la MN LAKONIA informan las reservas con call sign VROG2 y el que corresponde es 5LHF7. Favor considerar ajuste para todas las reservas asociadas a esa MN y para los futuros viajes. Slds, Victor Alvarez Document Supervisor - Operations-Depot DP World Lirquen M +569 65208716 E victor.alvarez@dpworld.com De: carrapa/Pablo Carra",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/27/2026 03:37:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:44:28,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:44:28,,,,,End User,,ISDC,OPI,2026,8,35,,,
+SR-10334350,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI 2336623550 ,Closed,General Inquiry,Booking re-extraction,SSZ,BRAZIL,"Please reprocess EDI for 2336623550 - SSZ06 - Santos Brazil, Santos",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/27/2026 02:26:18,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:31:44,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:31:43,,,,,End User,,CSV,CSBR,2026,8,35,,,
+SR-10332283,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),Baplie - PSW9/PCC1-OOCL BRUSSELS/OBS 071E,Closed,General Inquiry,Checked if EDI file was sent to partner,MNL,PHILIPPINES,"Good Day Support Teams, We received notification from our internal customer service that the arrival baplie for subject vessel had not been received to LBCT. According to the Stowage Bank site, the original arrival baplie was uploaded 8/13 and that LBCTEDI is marketed as a partner. I have sense reuploaded the file. Kindly review issue and advise cause once known. Regards, Matthew Lyman Marine Manager, OOCL (USA) Inc. M: (562) 717-6152 E: matthew.lyman@oocl.com | W: www.oocl.com A: 111 W. Ocean Blvd., Suite 1700, Long Beach, CA 90802",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/25/2026 03:50:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:30:18,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:30:18,,,,,End User,,ISDC,OPI,2026,8,35,,,
+SR-10332246,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI 2334461680 ,Closed,General Inquiry,Booking reprocessing,SSZ,BRAZIL,"Please reprocess EDI for 2334461680 - IOA01 - Tecon Santa Catarina.
+
+
+
+Tks & Rgds",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/25/2026 01:17:11,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:29:51,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:29:51,,,,,End User,,CSV,CSBR,2026,8,35,,,
+SR-10332235,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI 2336161260 ,Closed,General Inquiry,Booking reprocessing,SSZ,BRAZIL,"Please reprocess EDI for 2336161260 - PNG01 - TCP, Paranagua",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/25/2026 00:50:09,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:29:39,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:29:38,,,,,End User,,CSV,CSBR,2026,8,35,,,
+SR-10330598,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),edi 2333386580 ,Closed,General Inquiry,Booking has been reprocessed to SSZ06.,SSZ,BRAZIL,"Please reprocess EDI for 2333386580 - SSZ06 - Santos Brazil, Santos",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/22/2026 00:07:53,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:28:54,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:28:53,,,,,End User,,CSV,CSBR,2026,8,34,,,
+SR-10329683,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: Not received 404 files,Closed,General Inquiry,"Checked if 404 files were sent to partner, ongoing coordination via email with SPSSUPP",MNL,PHILIPPINES,"Hi @EDISUPP/MNL EDI Support (ISD-OOCLL/MNL), Can you please verify the EDI 404 files for the below containers have successfully been sent to LBCT and attach the 404 files? This is an urgent matter as the vessel is calling tomorrow. Thanks, Rebecca Dobson Manager, Global Project Implementation Team , OOCL (USA) Inc. C: 425-407-3468 E rebecca.dobson@oocl.com| W: www.oocl.com A: 10913 S River Front Pkwy, STE 200, South Jordan UT 84095 From: Naveen Guggilapu <naveen.guggilapu@lbct.com> Sent: Thursday, August 20, 2026 11:51 AM To: REBECCA DOBSON (ITPI&PT-GPIT-ISD-OOCLL/SLC) <rebecca.dobson@oocl.com> Cc: HARVEY MILLER (MGT-LAND-OPS-OUI/SLC) <harvey.miller@oocl.com>; Derrik Fisher <derrik.fisher@lbct.com>; AMINE NEBRI (BPS-LBCT/LGB) <amine.nebri@lbct.com>; Silvia Bricker <silvia.bricker@lbct.com>; Sadie Rabe <sadie.rabe@lbct.com>; EDI Support <edisupport@lbct.com> Subject: Not received 404 files CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Hi Rebecca, We did not receive the 404 off-dock files for below containers. OOCL team is claiming that they submitted 404 files, could you please check if you ever posted them to our SFTP server? This is very urgent because vessel is calling tomorrow, Please find and let us know where the disconnect is. CSGU2034530 OOLU4425021 OOCU5003148 OOCU8494045 OOCU6281884 OOCU5795256 OOCU5792560 OOCU5790640 OOCU5788323 OOCU5683385 OOCU5619200 FFAU5560715 CSNU6051073 CSGU6282601 OOLU4298328 OOCU4951272 OOCU4944205 OOCU4909354 CCLU5178002 TRHU4949210 TIIU8164427 TCLU1559840 OOLU9190254 OOCU5790697 OOCU5788977 OOCU5785108 OOCU5779635 OOCU5779023 OOCU5514467 DDDU5051548 DDDU5051321 CSNU7931556 CSNU7534538 CSNU6120390 CSGU6175239 CCLU7913359 CAIU4483819 DFSU7811301 FCIU5105848 TRHU6049096 TRHU5506201 TGHU9876990 TGBU7934545 OOLU9652223 OOCU8709755 OOCU5788895 OOCU5786001 OOCU5782310 OOCU5780960 FFAU2972771 CSNU5973927 CSGU6552970 CCLU7786336 TRHU4823665 OOCU8582146 DDDU5059699 OOCU7510795 OOCU5799098 OOCU5796503 OOCU5787728 OOCU5776446 OOCU5761235 FFAU2454068 CSNU8235402 OOCU6835944 OOCU5797958 OOCU5788241 OOCU5780364 OOCU5733547 FFAU8077249 CSGU6941988 OOCU5798213 OOCU5793058 OOCU5778217 CSNU8192105 CBHU9168825 OOLU9067527 OOCU5795261 OOCU5780955 Naveen Guggilapu EDI Developer Long Beach Container Terminal, LLC 813-616-0186 | naveen.guggilapu@lbct.com IMPORTANT NOTICE: The substance of this message, including any attachments, is for the use of the intended recipient and may contain privileged and confidential information of LBCT LLC or its affiliates. If the reader of this message is not the intended recipient, or the employee or agent responsible to deliver it to the intended recipient, you are strictly prohibited from reviewing, forwarding, printing, copying, distributing or using this information in any way, and are hereby requested to contact the sender by reply email and destroy all copies of the original message.",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/21/2026 02:00:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:28:28,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/27/2026 10:28:28,,,,,End User,,ISDC,OPI,2026,8,34,,,
+SR-10326459,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),Not receiving gate event EDI from PDX11,Closed,General Inquiry,Fix has been implemented regarding the processing in EEC side,SLC,USA,Please check why we are not receiving gate event EDI from PDX11. Example: OOCU5604180 .  We should have received the full outgate event from PDX11 on 8/12 and the empty ingate at PDX11 on 8/14. ,,,,,KYLE JONES (TML-OPS-OUI/SLC),08/18/2026 03:47:53,KYLE JONES (TML-OPS-OUI/SLC),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/25/2026 09:10:52,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/25/2026 09:10:52,,,,,End User,,OPS,OUI,2026,8,34,,,
+SR-10328621,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI BKG 2335706100 - TCP,Closed,General Inquiry,Booking has been resent to PNG01.,,,"TEAM, PLS RESEND EDI TO PNG01-TCP, Paranagua, Parana, Brazil",,,,,BRAZILCSV/BRAZIL CUSTOMER SERVICES CONTACT,08/20/2026 03:52:55,GABRIEL FERNANDES (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/22/2026 09:03:31,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/22/2026 09:03:30,,,,,End User,,,,2026,8,34,,,
+SR-10328611,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI BKG 2333859200 - TCP,Closed,General Inquiry,Booking has been resent to PNG01.,,,"TEAM, PLS RESEND EDI TO PNG01-TCP, Paranagua, Parana, Brazil",,,,,BRAZILCSV/BRAZIL CUSTOMER SERVICES CONTACT,08/20/2026 02:36:59,GABRIEL FERNANDES (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/22/2026 09:03:10,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/22/2026 09:03:10,,,,,End User,,,,2026,8,34,,,
+SR-10327485,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),2335337220  2335337280 ,Closed,General Inquiry,Bookings were reprocessed to PNG01.,SSZ,BRAZIL,"Please reprocess EDI for bookings 2335337220 2335337280 - PNG01 - TCP, Paranagua,",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/19/2026 02:20:26,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/22/2026 09:02:52,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/22/2026 09:02:52,,,,,End User,,CSV,CSBR,2026,8,34,,,
+SR-10323080,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI 2335801640 ,Closed,General Inquiry,Booking was reprocessed via SR-10323936,SSZ,BRAZIL,Please reprocess edi for 2335801640 - 2335801640   ,,,,,REGINA HELENA (CSV-CSBR/SSZ),08/13/2026 03:55:34,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/22/2026 09:02:30,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/22/2026 09:02:30,,,,,End User,,CSV,CSBR,2026,8,33,,,
+SR-10326461,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: EQPP | 0817   Suspected Missing Discharge VER04/ATG-OBH-017 W,Closed,General Inquiry,"Checked if file for mentioned containers were received, ongoing coordination via email",MNL,PHILIPPINES,"Edi Support team good day ! Why were the reports generated on August 15th but only entered today at 8:32 AM , 2 day after ? Please confirm if this is correct, so that OOCLEDCNA takes it note for below reports and for the other ones that will be received Jesica Avalos L. Senior Operations Representative OOCL (Mexico) SA de CV PH: 5554494346 E: jesica.avalos@oocl.com / mexexquipment@oocl.com W: www.oocl.com A: Pico de Verapaz 435-601, Jardines en la Montaña, Tlalpan, 14210, CDMX https://www.oocl.com/mexico/eng/localinformation/emptycontainerreturnlocation/Pages/default.aspx?site=mexico&lang=eng From: José Miguel Vidal Vidal <vidal.miguel@icave.com.mx> Sent: Monday, August 17, 2026 12:23 PM To: mexequipment/mexequipment@oocl.com <mexequipment@oocl.com>; Denizli Alvarado Dávila <alvarado.denizli@icave.com.mx>; OOCLEDCNA/OOCL EDC - NA Region <OOCLEDCNA@oocl.com>; supportedi.icave <support.edi@icave.com.mx> Cc: ANGEL MARTINEZ (OPS-REPL/VER) <amartinez@maritimex.com.mx>; Linerver <linerver@maritimex.com.mx>; ejecutivas_comerciales <ejecutivas_comerciales@icave.com.mx> Subject: RE: EQPP | 0817 Suspected Missing Discharge VER04/ATG-OBH-017 W CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Hi Jesica; Today. Regards. De: mexequipment@oocl.com <mexequipment@oocl.com> Enviado el: lunes, 17 de agosto de 2026 12:22 p. m. Para: José Miguel Vidal Vidal <vidal.miguel@icave.com.mx>; Denizli Alvarado Dávila <alvarado.denizli@icave.com.mx>; oocledcna <OOCLEDCNA@OOCL.COM>; supportedi.icave <support.edi@icave.com.mx> CC: amartinez@maritimex.com.mx; Linerver <linerver@maritimex.com.mx>; ejecutivas_comerciales <ejecutivas_comerciales@icave.com.mx> Asunto: RE: EQPP | 0817 Suspected Missing Discharge VER04/ATG-OBH-017 W dear Jose M. good day ! It was sent at 8:32 on which day? EDI Support, is this correct? Jesica Avalos L. Senior Operations Representative OOCL (Mexico) SA de CV PH: 5554494346 E: jesica.avalos@oocl.com / mexexquipment@oocl.com W: www.oocl.com A: Pico de Verapaz 435-601, Jardines en la Montaña, Tlalpan, 14210, CDMX https://www.oocl.com/mexico/eng/localinformation/emptycontainerreturnlocation/Pages/default.aspx?site=mexico&lang=eng From: José Miguel Vidal Vidal <vidal.miguel@icave.com.mx> Sent: Monday, August 17, 2026 11:53 AM To: Denizli Alvarado Dávila <alvarado.denizli@icave.com.mx>; mexequipment/mexequipment@oocl.com <mexequipment@oocl.com>; OOCLEDCNA/OOCL EDC - NA Region <OOCLEDCNA@oocl.com>; supportedi.icave <support.edi@icave.com.mx> Cc: ANGEL MARTINEZ (OPS-REPL/VER) <amartinez@maritimex.com.mx>; Linerver <linerver@maritimex.com.mx>; ejecutivas_comerciales <ejecutivas_comerciales@icave.com.mx> Subject: RE: EQPP | 0817 Suspected Missing Discharge VER04/ATG-OBH-017 W CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Hi Jessica; The file was sent (second attempt) prior the arrival of your mail. As seen in this image, the event was generated timely at Aug 15th but finally sent today 8:32am. Due to this initial error: Sat Aug 15 12:19:50 GMT-06:00 2026: INICIO ENVIO: Conexión servidor FTP en: edib2b.oocl.com : 22 Sat Aug 15 12:19:51 GMT-06:00 2026: ***Error en el método EnviarFichero: FtpWorkflowException --> Return Value: 550 Description: End Sat Aug 15 12:19:51 GMT-06:00 2026: ***Error en el método Enviar: Resultado Conexión: HOST:OOCL Punto Operacional Destino:OOCL ERROR en EnviarFichero. FtpWorkflowException --> Return Value: 550 Description: End This is the log of today’s attempt: 2026-08-17 08:36 a. m. - Starting SFTP connection... Searching for host... Connecting to host... Authenticating... Using username ""icavesshftp"". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] icavesshftp@edib2b.oocl.com Using configured transfer settings different from factory defaults. D:\FTP\OOCL\EDIG20260817083148665 | 32 KB | 2.2 KB/s | binary | 100% Se",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/18/2026 04:07:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/20/2026 08:44:43,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/20/2026 08:44:42,,,,,End User,,ISDC,OPI,2026,8,34,,,
+SR-10326446,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),"FW: OOCL IB Demurrage Notice For Bill Of Lading: 2170189560 (SLC), Container OOCU8596197",Closed,General Inquiry,Retriggered release EDI for mentioned partner,MNL,PHILIPPINES,"Remove customer and add EDI team, @EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) Please retrigger the EDI. IRIS 4 shows it is all cleared. Customer paid Demurrage until today. However, the terminal still shows held by line. We cannot manually release at the terminal thanks Regards, Jennifer Tang Import Customer Service, OOCL (Canada) Inc. T: 888-388-6625 E: impwest@oocl.com | W: www.oocl.com Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click Below to Provide Feedback or Suggestions on our service: Please Note: rtr.home.oocl.com Demurrage payment for Houston, New Orleans, Mobile, Oakland, Seattle and Tacoma terminals must be processed through Real Time Release. For more information on Real Time Release, please proceed to our website here. From: Nino Bulatsashvili - DSV <nino.bulatsashvili@dsv.com> Sent: Monday, August 17, 2026 10:31 AM To: NADISPDD/NAG DD Disputes <NADISPDD@oocl.com>; IMPWEST/Import West Customer Service Team <IMPWEST@oocl.com> Subject: RE: OOCL IB Demurrage Notice For Bill Of Lading: 2170189560 (SLC), Container OOCU8596197 Importance: High CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Team, Container is still pending release. We are running out of the time. Please help. Best regards, Nino Bulatsashvili, Freight Forwarder, Ocean Import, Iselin NJ, Air & Sea US nino.bulatsashvili@dsv.com | Office +173285080002542 | Mobile +1 9172011371 | www.dsv.com From: Nino Bulatsashvili - DSV Sent: Monday, August 17, 2026 12:12 PM To: NADISPDD@oocl.com; IMPWEST@oocl.com Subject: RE: OOCL IB Demurrage Notice For Bill Of Lading: 2170189560 (SLC), Container OOCU8596197 Hello, Per OAK terminal’s info, they are pending release from your side. Please send it ASAP. Thank you. Best regards, Nino Bulatsashvili, Freight Forwarder, Ocean Import, Iselin NJ, Air & Sea US nino.bulatsashvili@dsv.com | Office +173285080002542 | Mobile +1 9172011371 | www.dsv.com From: NADISPDD@oocl.com <NADISPDD@oocl.com> Sent: Monday, August 17, 2026 11:55 AM To: Nino Bulatsashvili - DSV <nino.bulatsashvili@dsv.com>; IMPWEST@oocl.com Subject: RE: OOCL IB Demurrage Notice For Bill Of Lading: 2170189560 (SLC), Container OOCU8596197 Importance: High External email:Be careful with links and attachments Hello @IMPWEST/Import West Customer Service Team Please assist with the below. Thank you, Takesha Dorsey Assistant Manager, Detention & Demurrage W: www.oocl.com | T: +1 (888) 388-6625 From: Nino Bulatsashvili - DSV <nino.bulatsashvili@dsv.com> Sent: Monday, August 17, 2026 10:39 AM To: NADISPDD/NAG DD Disputes <NADISPDD@oocl.com>; IMPWEST/Import West Customer Service Team <IMPWEST@oocl.com> Subject: RE: OOCL IB Demurrage Notice For Bill Of Lading: 2170189560 (SLC), Container OOCU8596197 Importance: High You don't often get email from nino.bulatsashvili@dsv.com. Learn why this is important CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Hello, Please send reminder and or call the warehouse. The hold is still on Best regards, Nino Bulatsashvili, Freight Forwarder, Ocean Import, Iselin NJ, Air & Sea US nino.bulatsashvili@dsv.com | Office +173285080002542 | Mobile +1 9172011371 | www.dsv.com From: Nino Bulatsashvili - DSV Sent: Monday, August 17, 2026 9:57 AM To: NADISPDD@oocl.com; IMPWEST@oocl.com Subject: RE: OOCL IB Demurrage Notice For Bill Of Lading: 2170189560 (SLC), Container OOCU8596197 Importance: High Good day, The charges were paid on Friday, and receipt per attach. Please release the container, as it’s still showing on hold. Thank you in advance. Best regards, Nino Bulatsashvili, Freight Forwarder, Ocean Import, Iselin NJ, Air & Sea US nino.bulatsashvili@dsv.com | Office +173285080002542 | Mobile +1 9172011371 | www.dsv.com From: Nino Bulatsashvili - DSV Sent: Friday, August 14, 2026 1:20 PM To: 'NADISPDD@oocl.com' <NADISPDD@oocl.com>; IMPWEST@oocl.com Subject: RE: OOCL IB Demurrage Notice F",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/18/2026 02:32:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/20/2026 08:43:22,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/20/2026 08:43:22,,,,,End User,,ISDC,OPI,2026,8,34,,,
+SR-10326439,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI BKG 2333032720 - PORTONAVE,Closed,General Inquiry,Booking has been resent to IVT01.,,,"TEAM, PLS RESEND EDI TO IVT01-Portonave S.A.-Navegacao Port Tml, Navegantes, Santa Catarina, Brazil",,,,,BRAZILCSV/BRAZIL CUSTOMER SERVICES CONTACT,08/18/2026 01:40:07,GABRIEL FERNANDES (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/20/2026 08:42:05,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/20/2026 08:42:04,,,,,End User,,,,2026,8,34,,,
+SR-10326434,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),edi 2335801580/2335801630 ,Closed,General Inquiry,Bookings have been reprocessed,SSZ,BRAZIL,"Please reprocess EDI for  2335801580/2335801630 PNG01 - TCP, Paranagua.",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/18/2026 01:19:48,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/20/2026 08:41:42,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/20/2026 08:41:42,,,,,End User,,CSV,CSBR,2026,8,34,,,
+SR-10326423,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),Request for DG Cargo - EDI file PNW1-OSN-136-E,Closed,General Inquiry,Provided requested file,CHI,USA,"Good morning, here is a recap of the inbound b/l and container details for DG cargo. Can you please provide the EDI file. 
+
+
+
+
+
+
+
+
+
+B/L Number
+
+
+
+Container Number
+
+
+
+
+
+2171353290
+
+
+
+OOCU6065165
+
+
+
+
+
+2171467960
+
+
+
+CSGU6330058
+
+
+
+
+
+2171607140
+
+
+
+OOCU9692003
+
+
+
+
+
+2171607910
+
+
+
+OOCU7110715
+
+
+
+
+
+2171761120
+
+
+
+OOCU8080030
+
+
+
+
+
+2171761180
+
+
+
+FSCU8813053
+
+
+
+
+
+2171900040
+
+
+
+CSNU2243859
+
+
+
+
+
+2171953710
+
+
+
+OOCU5647515
+
+
+
+
+
+2171960150
+
+
+
+OOCU5662145
+
+
+
+
+
+2172000940
+
+
+
+TCNU6187893
+
+
+
+
+
+2172000940
+
+
+
+CCLU7863089
+
+
+
+
+
+2172065710
+
+
+
+TRHU4514413
+
+
+
+
+
+2172066040
+
+
+
+FFAU3484555
+
+
+
+
+
+2172090080
+
+
+
+TIIU5241936
+
+
+
+
+
+2172098940
+
+
+
+FFAU7075370
+
+
+
+
+
+2172323080
+
+
+
+FSCU8596929
+
+
+
+
+
+2331809690
+
+
+
+CSNU2161880
+
+
+
+
+
+2333640530
+
+
+
+YJCU0100205
+
+
+
+
+
+2333672560
+
+
+
+FCIU5904438
+
+
+
+
+
+2333884390
+
+
+
+CSLU1984309
+
+
+
+
+
+2333956570
+
+
+
+OOLU4336074
+
+
+
+
+
+2334151400
+
+
+
+TEMU0149047
+
+
+
+
+
+2334175620
+
+
+
+TRHU5505566
+
+
+
+
+
+2334587390
+
+
+
+TGBU3121779
+
+
+
+
+
+2334591370
+
+
+
+CSNU2888082
+
+
+
+
+
+2334646900
+
+
+
+OOCU5785089",,,,,ALICIA LINICK (IB-CSV-OUI/CHI),08/18/2026 00:53:55,ALICIA LINICK (IB-CSV-OUI/CHI),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,ALICIA LINICK (IB-CSV-OUI/CHI),08/18/2026 03:47:39,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/18/2026 03:47:38,,,,,End User,,CSV,OUI,2026,8,34,,,
+SR-10322141,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),edi 2333016951 ,Closed,User Request,Booking Reprocessing,SSZ,BRAZIL,Please reprocess EDI for 2333016951 ,,,,,REGINA HELENA (CSV-CSBR/SSZ),08/12/2026 02:56:47,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/15/2026 09:04:54,Web Portal,MARY ANN VELAR (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/15/2026 09:04:54,,,,,End User,,CSV,CSBR,2026,8,33,,,
+SR-10323076,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RES: PROBLEMA COM ENVIO DE EDI - Navegantes OOCL.,Closed,General Inquiry,Asked for which partner and booking number to resend to. Ongoing coordination via email,MNL,PHILIPPINES,"Jorge, g’ day! The EDI did not integrate correctly. Could you please send the file? I've also added @EDISUPP@oocl.com @REBECCA DOBSON (ITPI&PT-GPIT-ISD-OOCLL/SLC) so that he can verify and follow up accordingly. Thank you. Obrigado! Atenciosamente / Best Regards, (Mr.) Kayque Rodrigues Equipment Team mail: bra.equipment@coscon.com COSCO SHIPPING Lines (Brazil) Phone: +55 (13) 3211-9222 Rua Guaiaó, 66 - 20° and. - Cj. 2001 Santos - São Paulo - Brasil – CEP: 11035-260 www.coscoshipping.com.br De: Jorge do Nascimento Junior <jnjunior@portonave.com.br> Enviada em: quarta-feira, 12 de agosto de 2026 14:56 Para: thomale/Letícia Thomaz (SA/BRA/OP) <leticia.thomaz@coscon.com>; rodrika/Kayque Rodrigues(SA/BRA/OP) <Kayque.Rodrigues@coscon.com>; PORTONAVE - ALERTAS-EDI <alertas-edi@portonave.com.br>; PORTONAVE - GATE <gate@portonave.com.br>; Brazil Equipment <bra.equipment@coscon.com> Assunto: RES: PROBLEMA COM ENVIO DE EDI - Navegantes OOCL. [External Email. Please do not open suspicious links or attachments.] Boa tarde, EDI's reenviados, por favor verifique. Qualquer dúvida ou problema estamos à disposição. Att -- Jorge Do Nascimento Junior Departamento de Tecnologia da Informação jnjunior@portonave.com.br Fone: +55 (47) 2104 3486 De: thomale/Letícia Thomaz (SA/BRA/OP) <leticia.thomaz@coscon.com> Enviada em: quarta-feira, 12 de agosto de 2026 14:15 Para: rodrika/Kayque Rodrigues(SA/BRA/OP) <Kayque.Rodrigues@coscon.com>; PORTONAVE - ALERTAS-EDI <alertas-edi@portonave.com.br>; PORTONAVE - GATE <gate@portonave.com.br>; Brazil Equipment <bra.equipment@coscon.com>; Jorge do Nascimento Junior <jnjunior@portonave.com.br> Assunto: RES: PROBLEMA COM ENVIO DE EDI - Navegantes OOCL. ATENÇÃO: E-mail externo. Não clique em links ou abra anexos, a menos que você reconheça o remetente e tenha certeza de que o conteúdo é seguro. Add @Jorge do Nascimento Junior para auxilio Atenciosamente.. Letícia Thomaz Equipment Assistant EQUIPMENT DIVISION Email: bra.equipment@coscon.com COSCO SHIPPING Lines (Brazil) Phone. 55 (13) 3211-9222 | Extension line: 9319 Rua Guaiaó, 66 20º Andar – Cj. 2001 Santos – São Paulo - Brasil – CEP: 11035-260 www.coscoshipping.com.br De: rodrika/Kayque Rodrigues(SA/BRA/OP) <Kayque.Rodrigues@coscon.com> Enviada em: quarta-feira, 12 de agosto de 2026 13:42 Para: alertas-edi@portonave.com.br; PORTONAVE - GATE <gate@portonave.com.br>; Brazil Equipment <bra.equipment@coscon.com> Assunto: PROBLEMA COM ENVIO DE EDI - Navegantes OOCL. Prezados, boa tarde! Notar que não estamos recebendo os EDI’s de descarga e embarque dos últimos navios. Poderiam verificar e nos enviar de acordo por gentileza. Segue em anexo. Obrigado! Atenciosamente / Best Regards, (Mr.) Kayque Rodrigues Equipment Team mail: bra.equipment@coscon.com COSCO SHIPPING Lines (Brazil) Phone: +55 (13) 3211-9222 Rua Guaiaó, 66 - 20° and. - Cj. 2001 Santos - São Paulo - Brasil – CEP: 11035-260 www.coscoshipping.com.br",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/13/2026 03:32:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:52:16,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:52:15,,,,,End User,,ISDC,OPI,2026,8,33,,,
+SR-10322159,3,B2B | OOCL GEDI Vendor (Non-EDI Transmission),B2B | OOCL GEDI Vendor (Non-EDI Transmission),EDI 2333849500,Closed,General Inquiry,Booking has been resent to SSZ06.,SAO,BRAZIL,"Team,
+
+Resend edi to terminal SSZ06-Santos Brazil, Santos, Sao Paulo, Brazil.
+
+",,,,,CATIA REIS (CSV-CSBR/SAO),08/12/2026 03:55:07,CATIA REIS (CSV-CSBR/SAO),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:51:14,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:51:14,,,,,End User,,CSV,CSBR,2026,8,33,,,
+SR-10322145,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),edi 2333378180 ,Closed,General Inquiry,Booking has been reprocessed.,SSZ,BRAZIL,Please reprocess EDI for 2333378180,,,,,REGINA HELENA (CSV-CSBR/SSZ),08/12/2026 03:02:11,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:50:46,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:50:45,,,,,End User,,CSV,CSBR,2026,8,33,,,
+SR-10322148,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI 2333378360 ,Closed,General Inquiry,Booking has been reprocessed.,SSZ,BRAZIL,"Please reprocess EDI for 2333378360 - Santos Brazil, Santos",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/12/2026 03:04:22,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:50:32,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:50:31,,,,,End User,,CSV,CSBR,2026,8,33,,,
+SR-10322146,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI to OAK08 Needed for Nine Containers,Closed,General Inquiry,Masterfile generated,OAK,USA,"EDISUPP - Please help to send EDI to update Masterfile at OAK08 for the following nine (9) containers:
+
+
+
+
+
+
+
+CCLU7616941
+
+
+
+
+
+CCLU7800820
+
+
+
+
+
+CSNU8668608
+
+
+
+
+
+OOCU7241660
+
+
+
+
+
+OOCU7541857
+
+
+
+
+
+OOCU7906702
+
+
+
+
+
+OOCU7926099
+
+
+
+
+
+OOCU8295228
+
+
+
+
+
+TRHU5512842",,,,,FRANK F HE (TML-OPS-OUI/OAK),08/12/2026 03:02:13,FRANK F HE (TML-OPS-OUI/OAK),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:50:11,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:50:11,,,,,End User,,OPS,OUI,2026,8,33,,,
+SR-10322147,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: 301 Booking,Closed,General Inquiry,Provided details regarding action code for 301 EDI,MNL,PHILIPPINES,"Good Afternoon @EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) , Kindly assist with the below EDI queries. We recently had a trading partner request a change on their EDI setup, and as part of reviewing that, we want to make sure our action code definitions for 301 bookings are still aligned across all our partners. Could you confirm the following for your 301 bookings: 1. Does action code ""R"" indicate Close (as opposed to Reduce)? 2. Does action code ""N"" indicate New or Update? Just want to make sure everything on our end still matches your intended setup. Appreciate you confirming at your convenience. Thank you Syed Danial Rehman Import Customer Service, OOCL Canada Inc. T: 1-888-388-6625 | T: 416-620-4040 E: IMPEAST@oocl.com | W: www.oocl.com/canada A: 703 Evans Avenue, Suite 300 | Toronto, Ontario M9C 5E9 Click below to provide feedback: From: Dawn Stephens <dstephens@imcc.com> Sent: Tuesday, August 11, 2026 7:59 AM To: MIKE.YOUNG@OOCL.COM; ANITA COLLINS (EQM-OPS-OUI/SLC) <anita.collins@oocl.com>; JEROME.FONG@OOCL.COM Cc: Preston Leach <pleach@IMCC.COM> Subject: 301 Booking You don't often get email from dstephens@imcc.com. Learn why this is important CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Hi, We recently had a trading partner request a change on their EDI setup, and as part of reviewing that, we want to make sure our action code definitions for 301 bookings are still aligned across all our partners. Could you confirm the following for your 301 bookings: 1. Does action code ""R"" indicate Close (as opposed to Reduce)? 2. Does action code ""N"" indicate New or Update? Just want to make sure everything on our end still matches your intended setup. Appreciate you confirming at your convenience. Thank you, Dawn Stephens, Business Analyst Advisor Phone: (901) 567-3717 1305 Schilling Blvd W Collierville, TN 38017 SMARTER LANDSIDE LOGISTICS Disclaimer : This email and all contents are subject to the following disclaimer: http://emaildisclaimer.oocl.com/default.html",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/12/2026 03:02:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:49:57,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:49:57,,,,,End User,,ISDC,OPI,2026,8,33,,,
+SR-10322122,3,B2B | OOCL GEDI Vendor (Non-EDI Transmission),B2B | OOCL GEDI Vendor (Non-EDI Transmission),EDI 2331196490,Closed,General Inquiry,Booking has been resent to PNG01,SAO,BRAZIL,"TEAM,
+
+PLS RESEND EDI TO PNG01-TCP, Paranagua, Parana, Brazil
+
+",,,,,CATIA REIS (CSV-CSBR/SAO),08/12/2026 01:57:13,CATIA REIS (CSV-CSBR/SAO),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:49:23,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:49:22,,,,,End User,,CSV,CSBR,2026,8,33,,,
+SR-10321180,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI 2333975000 - TCP,Closed,General Inquiry,Booking has been resent to PNG01,SAO,BRAZIL,"TEAM, PLS RESEND EDI TO PNG01-TCP, Paranagua, Parana, Brazil
+
+",,,,,MICHEL AGUIAR (CSV-CSBR/SAO),08/11/2026 07:37:05,MICHEL AGUIAR (CSV-CSBR/SAO),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:49:07,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:49:07,,,,,End User,,CSV,CSBR,2026,8,33,,,
+SR-10321153,3,B2B | OOCL GEDI Vendor (Non-EDI Transmission),B2B | OOCL GEDI Vendor (Non-EDI Transmission),edi 2333975000 ,Closed,General Inquiry,Booking has been reprocessed.,SSZ,BRAZIL,"Please reprocess EDI for 2333975000 - PNG01 - TCP, Paranagua",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/11/2026 05:17:22,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:48:49,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:48:49,,,,,End User,,CSV,CSBR,2026,8,33,,,
+SR-10321148,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI BKG 2333735140 - TCP,Closed,General Inquiry,Booking has been resent to PNG01.,,,"TEAM, PLS RESEND EDI TO 
+
+
+
+
+
+
+
+
+
+
+
+PNG01-TCP, Paranagua, Parana, Brazil",,,,,BRAZILCSV/BRAZIL CUSTOMER SERVICES CONTACT,08/11/2026 04:26:49,GABRIEL FERNANDES (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:48:24,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:48:23,,,,,End User,,,,2026,8,33,,,
+SR-10321136,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI 2333859200,Closed,General Inquiry,Booking has been reprocessed.,SSZ,BRAZIL,"Please reprocess EDI for 2333859200 - PNG01 - TCP, Paranagua,",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/11/2026 04:14:05,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:48:04,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/13/2026 08:48:04,,,,,End User,,CSV,CSBR,2026,8,33,,,
+SR-10322097,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),Request for DG Cargo - EDI file PNW1-OAK-143-E,Closed,General Inquiry,Provided requested file,CHI,USA,"Good morning, here is a recap of the inbound b/l and container details for DG cargo. Can you please provide the EDI file. 
+
+
+
+
+
+
+
+Consignee
+
+
+
+B/L Number
+
+
+
+Container Number
+
+
+
+Container Size/Type
+
+
+
+Last Discharge SVVD
+
+
+
+
+
+ACCO Brands Canada LP
+
+
+
+2171708280
+
+
+
+OOLU0404463
+
+
+
+20GP
+
+
+
+PNW1-OAK-143 E
+
+
+
+
+
+Rejoice Logistics (Canada) Inc.
+
+
+
+2332250000
+
+
+
+CSLU1560321
+
+
+
+20GP
+
+
+
+PNW1-OAK-143 E
+
+
+
+
+
+Rejoice Logistics (Canada) Inc.
+
+
+
+2332250430
+
+
+
+CSLU2264936
+
+
+
+20GP
+
+
+
+PNW1-OAK-143 E
+
+
+
+
+
+International Fastline Forwarding Inc.
+
+
+
+2332834310
+
+
+
+OOCU0977303
+
+
+
+20GP
+
+
+
+PNW1-OAK-143 E
+
+
+
+
+
+International Fastline Forwarding Inc.
+
+
+
+2332834790
+
+
+
+CSNU1823235
+
+
+
+20GP
+
+
+
+PNW1-OAK-143 E
+
+
+
+
+
+Catalynt Solutions, Inc.
+
+
+
+2332857510
+
+
+
+TLLU3209053
+
+
+
+20GP
+
+
+
+PNW1-OAK-143 E
+
+
+
+
+
+Ocean Blue Express Inc.
+
+
+
+2332989650
+
+
+
+DFSU7494784
+
+
+
+40HQ
+
+
+
+PNW1-OAK-143 E",,,,,ALICIA LINICK (IB-CSV-OUI/CHI),08/12/2026 00:19:48,ALICIA LINICK (IB-CSV-OUI/CHI),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,ALICIA LINICK (IB-CSV-OUI/CHI),08/12/2026 00:44:19,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/12/2026 00:44:19,,,,,End User,,CSV,OUI,2026,8,33,,,
+SR-10321133,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: EQPP | 0810    Suspected Missing Discharge VER04,Closed,General Inquiry,"Checked if we are receiving files from partner, checked if file was received for mentioned containers.",MNL,PHILIPPINES,"Gracias, Denizli. Necesitamos identificar la causa por la cual los archivos de VER04 no están llegando correctamente. Por favor, revisemos si la falla se origina con ustedes o con OOCL. He puesto en copia a EDI Support para su apoyo en el análisis. EDI Support, Files from the VER04 location have not been received recently. We understand that approximately 10 OOCL events are being rejected daily. Could you please help us determine where the failure is occurring and advise what checks should be performed to identify the root cause? Thank you for your support. Jesica Avalos L. Senior Operations Representative OOCL (Mexico) SA de CV PH: 5554494346 E: jesica.avalos@oocl.com / mexexquipment@oocl.com W: www.oocl.com A: Pico de Verapaz 435-601, Jardines en la Montaña, Tlalpan, 14210, CDMX https://www.oocl.com/mexico/eng/localinformation/emptycontainerreturnlocation/Pages/default.aspx?site=mexico&lang=eng From: Denizli Alvarado Dávila <alvarado.denizli@icave.com.mx> Sent: Monday, August 10, 2026 1:14 PM To: mexequipment/mexequipment@oocl.com <mexequipment@oocl.com> Cc: ejecutivas_comerciales <ejecutivas_comerciales@icave.com.mx>; Mariana de Jesús Medina Chávez <medina.mariana@icave.com.mx>; OOCLEDCNA/OOCL EDC - NA Region <OOCLEDCNA@oocl.com>; ANGEL MARTINEZ (OPS-REPL/VER) <amartinez@maritimex.com.mx>; Linerver <linerver@maritimex.com.mx>; supportedi.icave <support.edi@icave.com.mx> Subject: RE: EQPP | 0810 Suspected Missing Discharge VER04 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Estimada Jesica, Con gusto retransmito comentarios por parte del área de soporte EDI: La siguiente captura muestra el status de rechazado de los EDIs, quiere decir que el archivo no se materializó en el repositorio de naviera y, por tanto, no genera el archivo físico, por lo que éste se genera hasta que la naviera acepta el archivo, al igual que el log compartido. En la imagen indica en la esquina superior derecha el número de mensajes rechazados. Todos los días tenemos desde un par hasta unos 10 eventos rechazados de OOCL. En copia mis compañeros @supportedi.icave ante cualquier duda adicional, ¡Saludos! De: mexequipment@oocl.com <mexequipment@oocl.com> Enviado el: lunes, 10 de agosto de 2026 01:04 p. m. Para: Denizli Alvarado Dávila <alvarado.denizli@icave.com.mx>; Mariana de Jesús Medina Chávez <medina.mariana@icave.com.mx>; oocledcna <OOCLEDCNA@OOCL.COM>; amartinez@maritimex.com.mx; Linerver <linerver@maritimex.com.mx> CC: ejecutivas_comerciales <ejecutivas_comerciales@icave.com.mx>; supportedi.icave <support.edi@icave.com.mx> Asunto: RE: EQPP | 0810 Suspected Missing Discharge VER04 Buen dia esto es fecha de envio hoy, neceisto el envio previo al del dia de hoy y no en imagen sino en adjunto para enviarlo a EDI SUPPORT EN HKG Jesica Avalos L. Senior Operations Representative OOCL (Mexico) SA de CV PH: 5554494346 E: jesica.avalos@oocl.com / mexexquipment@oocl.com W: www.oocl.com A: Pico de Verapaz 435-601, Jardines en la Montaña, Tlalpan, 14210, CDMX https://www.oocl.com/mexico/eng/localinformation/emptycontainerreturnlocation/Pages/default.aspx?site=mexico&lang=eng From: Denizli Alvarado Dávila <alvarado.denizli@icave.com.mx> Sent: Monday, August 10, 2026 12:31 PM To: mexequipment/mexequipment@oocl.com <mexequipment@oocl.com>; Mariana de Jesús Medina Chávez <medina.mariana@icave.com.mx>; OOCLEDCNA/OOCL EDC - NA Region <OOCLEDCNA@oocl.com>; ANGEL MARTINEZ (OPS-REPL/VER) <amartinez@maritimex.com.mx>; Linerver <linerver@maritimex.com.mx> Cc: ejecutivas_comerciales <ejecutivas_comerciales@icave.com.mx>; supportedi.icave <support.edi@icave.com.mx> Subject: RE: EQPP | 0810 Suspected Missing Discharge VER04 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Dear Jesica, Sure, I’ll share it with you. Best regards, Denizli De: mexequipment@oocl.com <mexequipment@oocl.com> Enviado el: lunes, 10 de agosto de 2026 11:14 a. m. Para:",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/11/2026 04:00:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/11/2026 04:17:22,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/11/2026 04:17:21,,,,,End User,,ISDC,OPI,2026,8,33,,,
+SR-10321131,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),PRR - CONTAINER OWNERSHIP CONFIRMATION,Closed,General Inquiry,Provided requested details,MNL,PHILIPPINES,"CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Hello Team, Good Day 😊 We are reaching you to get a confirmation for the following containers are on-hired/leased/owned by OCL, since we have received an EDI batch in DPW PRINCE RUPERT for the session name CNR322_IN. S.No. CONTAINER NUMBER STATUS 1 OOLU9832288 2 OOLU8994617 3 TEMU6287378 4 OOCU7675100 5 TGBU9205373 6 OOLU9480232 7 OOCU7308022 Batch Number (Internal Reference) – 17298696 , 17299070 . Thanks in advance for your kind cooperation. With Best Regards, Jaganathan.",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/11/2026 03:55:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/11/2026 03:58:26,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/11/2026 03:58:25,,,,,End User,,ISDC,OPI,2026,8,33,,,
+SR-10321122,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI to OAK08 Needed for Container# OOLU9578656,Closed,General Inquiry,Masterfile generated.,SLC,USA,Please help to send the Master File for OOLU9578656 via EDI to OAK08,,,,,CHRIS YEO (EQM-OPS-OUI/SLC),08/11/2026 02:37:08,CHRIS YEO (EQM-OPS-OUI/SLC),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CHRIS YEO (EQM-OPS-OUI/SLC),08/11/2026 02:53:47,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/11/2026 02:53:46,,,,,End User,,OPS,OUI,2026,8,33,,,
+SR-10321104,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application), EDI to OAK08 Needed for Container# FSCU889741 ,Closed,General Inquiry,Masterfile generated.,SLC,USA,"Please help to send the Master File for FSCU889741 via EDI to OAK08	",,,,,CHRIS YEO (EQM-OPS-OUI/SLC),08/11/2026 01:54:58,CHRIS YEO (EQM-OPS-OUI/SLC),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CHRIS YEO (EQM-OPS-OUI/SLC),08/11/2026 02:53:25,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/11/2026 02:53:24,,,,,End User,,OPS,OUI,2026,8,33,,,
+SR-10319230,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI 2333518020 ,Closed,General Inquiry,Booking has been reprocessed.,SSZ,BRAZIL,"Please reprocess EDI for 2333518020 - SSZ06 - Santos Brasil, Santos ",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/08/2026 02:09:10,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:11:46,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:11:46,,,,,End User,,CSV,CSBR,2026,8,32,,,
+SR-10319238,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: Ondock for 2331752200 CCLU7881117 TIIU5360909 OOCU8783011 PVCS-CYS-008 E *JZ*,Closed,General Inquiry,Provided latest 404 EDI files sent to partner,MNL,PHILIPPINES,"Hello, Adding @EDISUPP for further assistance. Regards, Michelle Umana Import Customer Service, OOCL (USA) Inc. T: 888-388-6625 E: impwest@oocl.com W: www.oocl.com Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click Below to Provide Feedback or Suggestions on our service: Please Note: Demurrage payment for Houston, New Orleans, Mobile, Oakland, Seattle and Tacoma terminals must be processed through Real Time Release. For more information on Real Time Release, please proceed to our website here. From: LGBITM/LGB Intermodal (OPS-OUI/LGB) <LGBITM@oocl.com> Sent: Friday, August 7, 2026 11:49 AM To: IMPWEST/Import West Customer Service Team <IMPWEST@oocl.com>; NAGIBQUERY/IB DOC Query Requests (NAGC/SHA) <NAGIBQUERY@oocl.com> Subject: RE: Ondock for 2331752200 CCLU7881117 TIIU5360909 OOCU8783011 PVCS-CYS-008 E *JZ* Hi, Still not updated yet, vessel ETA is 8/12, I will follow up on Monday. Thanks! Regards, Julia Zhang Intermodal Department, OOCL (USA) Inc. T:+1 (562) 499-2600 | Toll Free: 1-888-388-6625 E: : lgbitm@oocl.com| W: www.oocl.com A:111 W. Ocean Blvd. Suite 1700, Long Beach, CA 90802 From: IMPWEST/Import West Customer Service Team <IMPWEST@oocl.com> Sent: Friday, August 7, 2026 10:23 AM To: LGBITM/LGB Intermodal (OPS-OUI/LGB) <LGBITM@oocl.com>; NAGIBQUERY/IB DOC Query Requests (NAGC/SHA) <NAGIBQUERY@oocl.com> Subject: RE: Ondock for 2331752200 CCLU7881117 TIIU5360909 OOCU8783011 PVCS-CYS-008 E *JZ* Hello Team, Kindly advise if works. Regards, Michelle Umana Import Customer Service, OOCL (USA) Inc. T: 888-388-6625 E: impwest@oocl.com W: www.oocl.com Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click Below to Provide Feedback or Suggestions on our service: Please Note: Demurrage payment for Houston, New Orleans, Mobile, Oakland, Seattle and Tacoma terminals must be processed through Real Time Release. For more information on Real Time Release, please proceed to our website here. From: LGBITM/LGB Intermodal (OPS-OUI/LGB) <LGBITM@oocl.com> Sent: Friday, August 7, 2026 9:47 AM To: IMPWEST/Import West Customer Service Team <IMPWEST@oocl.com>; NAGIBQUERY/IB DOC Query Requests (NAGC/SHA) <NAGIBQUERY@oocl.com> Subject: RE: Ondock for 2331752200 CCLU7881117 TIIU5360909 OOCU8783011 PVCS-CYS-008 E *JZ* Hi, Still not updated at terminal, please make correction to avoid terminal charges: Regards, Julia Zhang Intermodal Department, OOCL (USA) Inc. T:+1 (562) 499-2600 | Toll Free: 1-888-388-6625 E: : lgbitm@oocl.com| W: www.oocl.com A:111 W. Ocean Blvd. Suite 1700, Long Beach, CA 90802 From: IMPWEST/Import West Customer Service Team <IMPWEST@oocl.com> Sent: Friday, August 7, 2026 8:09 AM To: NAGIBQUERY/IB DOC Query Requests (NAGC/SHA) <NAGIBQUERY@oocl.com>; LGBITM/LGB Intermodal (OPS-OUI/LGB) <LGBITM@oocl.com> Subject: RE: Ondock for 2331752200 CCLU7881117 TIIU5360909 OOCU8783011 PVCS-CYS-008 E *JZ* Hello Team, EDI has been re-triggered. Regards, Michelle Umana Import Customer Service, OOCL (USA) Inc. T: 888-388-6625 E: impwest@oocl.com W: www.oocl.com Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click Below to Provide Feedback or Suggestions on our service: Please Note: Demurrage payment for Houston, New Orleans, Mobile, Oakland, Seattle and Tacoma terminals must be processed through Real Time Release. For more information on Real Time Release, please proceed to our website here. From: NAGIBQUERY/IB DOC Query Requests (NAGC/SHA) <NAGIBQUERY@oocl.com> Sent: Thursday, August 6, 2026 11:57 PM To: LGBITM/LGB Intermodal (OPS-OUI/LGB) <LGBITM@oocl.com>; IMPWEST/Import West Customer Service Team <IMPWEST@oocl.com> Subject: RE: Ondock for 2331752200 CCLU7881117 TIIU5360909 OOCU8783011 PVCS-CYS-008 E *JZ* Dear IMPWEST, Could you please assist below? Thanks. Regards, Tommy Jin From: LGBITM/LGB Intermodal (OPS-OUI/LGB) <LGBITM@oocl.com> Sent: Friday, August 7, 2026 04:58 To: NAGIBQUERY/IB DOC Query Requests (NAGC/SHA) <NAGIBQUERY@oocl.com> Subject: FW: Ondock for 2331752200 CCLU7881117 TIIU5360909 OOCU8783011 PVCS-CYS-008 E *JZ* Hi, Please h",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/08/2026 02:36:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:11:28,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:11:27,,,,,End User,,ISDC,OPI,2026,8,32,,,
+SR-10319227,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: OAK28+Missing Discharge Port,Closed,General Inquiry,Coordinated with development team regarding the discharge port sent,MNL,PHILIPPINES,"EDISUPP, Please help to check why discharge ports were not shown on the EDI records below on the original message of this email string. These empties were loaded onto “SEAP-GAZ-387 W” at OAK28 during the period of 8/3/26 to 8/4/2026. The EDI records in Iris-4 showed no discharge port. The current discharge ports in our system were added manually by EDCNA later. Per snapshot below from load port OAK28, discharge port was Port Kelang, Malaysia for two highlighted containers below and was Shekou, China for the balance of the containers. FBIU2002628 OOCU0100090 BEAU5564870 BMOU4892587 BMOU5333222 CBHU7037981 CCLU7930593 CSGU6598204 CSNU6421579 CSNU7185483 CSNU7588827 CSNU7673404 CSNU8340780 CSNU8506700 CSNU8775442 FCIU9707777 FFAU3247358 OOCU5828895 OOCU6275428 OOCU7542658 OOCU9310230 OOLU6954786 OOLU9912906 TCNU5919602 TGBU7766797 UETU5389324 Thanks, Frank F He OAK On-site Operations OOCL (USA) Inc. 510-543-4635 From: OOCLEDCNA/OOCL EDC - NA Region <OOCLEDCNA@oocl.com> Sent: Friday, August 7, 2026 1:14 AM To: NAGOPSOAK/NAGOPSOAK/NAG OPS Oakland <NAGOPSOAK@oocl.com> Subject: RE: OAK28+Missing Discharge Port Dear, Take FBIU200262-8 as example,POD was sent with invalid code 557,can you pls check? Best Regards Echo Sun Equipment Data Center /EMC E: echo.sun@oocl.com From: NAGOPSOAK/NAGOPSOAK/NAG OPS Oakland <NAGOPSOAK@oocl.com> Sent: Thursday, August 6, 2026 11:54 PM To: OOCLEDCNA/OOCL EDC - NA Region <OOCLEDCNA@oocl.com> Subject: RE: OAK28+Missing Discharge Port Echo, In the EDI OOCL received from OAK28 for these events, were there any discharge code? If “no”, what the codes showing in the EDI, as EDI format should be standard which include discharge port? If “yes”, were the discharge codes incorrect? What the code EDI showed? What code they should be? Thanks, Frank F He OAK On-site Operations OOCL (USA) Inc. 510-543-4635 From: OOCLEDCNA/OOCL EDC - NA Region <OOCLEDCNA@oocl.com> Sent: Thursday, August 6, 2026 2:23 AM To: NAGOPSOAK/NAGOPSOAK/NAG OPS Oakland <NAGOPSOAK@oocl.com> Subject: RE: OAK28+Missing Discharge Port Hi Frank, Can you pls check why loading events are missing POD recently? Best Regards Echo Sun Equipment Data Center /EMC E: echo.sun@oocl.com From: NAGOPSOAK/NAGOPSOAK/NAG OPS Oakland <NAGOPSOAK@oocl.com> Sent: Thursday, August 6, 2026 1:57 AM To: OOCLEDCNA/OOCL EDC - NA Region <OOCLEDCNA@oocl.com> Subject: RE: OAK28+Missing Discharge Port Yunxuan, For two 20FL empties, discharge port would be PKG05. For twenty-four 40HQ empties, discharge port would be SKZ01. Thanks, Frank F He OAK On-site Operations OOCL (USA) Inc. 510-543-4635 From: OOCLEDCNA/OOCL EDC - NA Region <OOCLEDCNA@oocl.com> Sent: Wednesday, August 5, 2026 12:19 AM To: NAGOPSOAK/NAGOPSOAK/NAG OPS Oakland <NAGOPSOAK@oocl.com> Cc: OOCLEDCNA/OOCL EDC - NA Region <OOCLEDCNA@oocl.com> Subject: OAK28+Missing Discharge Port Dears, Please kindly provide the discharge port for the containers below empty loading at “Curr Loc”on “SVVD”. Event Type Cntr No Cntr Size/Type Laden(F)/Empty(E) Rejection Reason Doc Ref SHP Doc Ref Curr Loc SVVD Event Datetime Loading FBIU200262-8 20FL E Does not have valid dsch-port / Discharge facility not valid in the SVVD N/A N/A OAK28 SEAP-GAZ-387 W 2026/8/3 23:45 Loading OOCU010009-0 20FL E Does not have valid dsch-port / Discharge facility not valid in the SVVD N/A N/A OAK28 SEAP-GAZ-387 W 2026/8/4 2:38 Loading FCIU970777-7 40HQ E Does not have valid dsch-port / Discharge facility not valid in the SVVD N/A N/A OAK28 SEAP-GAZ-387 W 2026/8/4 11:09 Loading OOCU931023-0 40HQ E Does not have valid dsch-port / Discharge facility not valid in the SVVD N/A N/A OAK28 SEAP-GAZ-387 W 2026/8/4 11:29 Loading BMOU489258-7 40HQ E Does not have valid dsch-port / Discharge facility not valid in the SVVD N/A N/A OAK28 SEAP-GAZ-387 W 2026/8/4 11:42 Loading CCLU793059-3 40HQ E Does not have valid dsch-port / Discharge facility not valid in the SVVD N/A N/A OAK28 SEAP-GAZ-387 W 2026/8/4 11:30 Loading OOLU991290-6 40HQ E Does not have valid dsch-port / Discharge facility not valid in the SVVD N/A N/A OAK28 SEAP-GAZ-387 W 2026/8/4 11:23 Loading BMOU53",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/08/2026 01:40:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:11:03,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:11:03,,,,,End User,,ISDC,OPI,2026,8,32,,,
+SR-10319199,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI 2332077100 ,Closed,General Inquiry,Booking has been reprocessed.,SSZ,BRAZIL,"Please reprocess EDI for 2332077100 - SSZ06 - Santos Brazil, Santos",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/08/2026 00:26:05,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:10:30,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:10:30,,,,,End User,,CSV,CSBR,2026,8,32,,,
+SR-10318249,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI 2333732070,Closed,General Inquiry,Booking has been reprocessed.,SSZ,BRAZIL,"Please reprocess EDI for 2333732070 - PNG01 - TCP, Paranagua,",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/07/2026 03:27:53,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:10:15,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:10:15,,,,,End User,,CSV,CSBR,2026,8,32,,,
+SR-10318248,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI 2332322220,Closed,General Inquiry,Booking has been reprocessed.,SSZ,BRAZIL,"Please reprocess EDI for booking 2332322220 - SSZ06 - Santos Brazil, Sant",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/07/2026 03:15:32,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:10:00,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:09:59,,,,,End User,,CSV,CSBR,2026,8,32,,,
+SR-10317259,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),2334903031 ,Closed,General Inquiry,Booking has been reprocessed.,SSZ,BRAZIL,Please reprocess EDI for 2334903031,,,,,REGINA HELENA (CSV-CSBR/SSZ),08/06/2026 03:21:35,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:09:31,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:09:31,,,,,End User,,CSV,CSBR,2026,8,32,,,
+SR-10317237,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI BKG 2334684180 - STS BRAZIL,Closed,General Inquiry,Booking has been resent to SSZ06.,,,"TEAM, PLS RESEND EDI TO SSZ06-Santos Brazil, Santos, Sao Paulo, Brazil",,,,,BRAZILCSV/BRAZIL CUSTOMER SERVICES CONTACT,08/06/2026 01:50:29,GABRIEL FERNANDES (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:09:04,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:09:04,,,,,End User,,,,2026,8,32,,,
+SR-10317223,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI to OAK08 Needed for OOCU6248227,Closed,General Inquiry,Masterfile generated.,OAK,USA,EDISUPP - Please help to send EDI to update Masterfile at OAK08 for OOCU6248227.,,,,,FRANK F HE (TML-OPS-OUI/OAK),08/06/2026 00:47:08,FRANK F HE (TML-OPS-OUI/OAK),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:08:45,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:08:44,,,,,End User,,OPS,OUI,2026,8,32,,,
+SR-10315073,3,B2B | OOCL GEDI Vendor (Non-EDI Transmission),B2B | OOCL GEDI Vendor (Non-EDI Transmission),EDI 2334465290 ,Closed,General Inquiry,Booking has been resent to PNG01.,SAO,BRAZIL,"TEAM,
+
+PLS RESEND EDI TO PNG01-TCP, Paranagua, Parana, Brazil
+
+",,,,,CATIA REIS (CSV-CSBR/SAO),08/04/2026 03:21:08,CATIA REIS (CSV-CSBR/SAO),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:08:30,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/08/2026 09:08:29,,,,,End User,,CSV,CSBR,2026,8,32,,,
+SR-10318236,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: STATUS INQUIRY FOR SM207196 MBL#OOLU2330197320 HBL#HXM26060936 CNTR#CSNU6615701,Closed,General Inquiry,Checked CLM and EEC event for mentioned container,MNL,PHILIPPINES,"Hello EDISUPP, Can you review container CSNU6615701 and see if we received any EDI information from the CP rail or Vanterm Terminal regarding the departure of this unit? It seems we are having issues with several units that are arriving to destination, but no EDI information in IRIS. Thank you Kind Regards, Ryan DeKorver Intermodal Analyst, OOCL (USA) Inc. T: (630) 645-9270 Option #1 E: n2c3trace@oocl.com | W: www.oocl.com A: 10913 S River Front Parkway Suite 200, South Jordan, UT 84095, United States From: IMPWEST/Import West Customer Service Team <IMPWEST@oocl.com> Sent: Thursday, August 6, 2026 10:50 AM To: N2C3TRACE/Rail Service Monitoring <N2C3TRACE@oocl.com> Cc: LORI ANDERSEN (MGT-CSV-OUI/SLC) <lori.andersen@oocl.com> Subject: RE: STATUS INQUIRY FOR SM207196 MBL#OOLU2330197320 HBL#HXM26060936 CNTR#CSNU6615701 Hello Team, Please note EEC also reflects the unit is still at VAN01. Van LeonGuerrero Senior Import Customer Service, OOCL (USA) Inc. T: 888-388-6625 E: impwest@oocl.com W: www.oocl.com Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click Below to Provide Feedback or Suggestions on our service: Please Note: Demurrage payment for Houston, New Orleans, Mobile, Oakland, Seattle and Tacoma terminals must be processed through Real Time Release. For more information on Real Time Release, please proceed to our website here. From: IMPWEST/Import West Customer Service Team Sent: Thursday, August 6, 2026 10:49 AM To: N2C3TRACE/Rail Service Monitoring <N2C3TRACE@oocl.com> Subject: FW: STATUS INQUIRY FOR SM207196 MBL#OOLU2330197320 HBL#HXM26060936 CNTR#CSNU6615701 Hello Team, Raising the below issue to you for further review. Unit CSNU6615701 reflects still at the terminal in N2C3. CP site reflects the unit is already at destination. Please escalate this issue further to the EDI team so N2C3 tracking can be accurate. Van LeonGuerrero Senior Import Customer Service, OOCL (USA) Inc. T: 888-388-6625 E: impwest@oocl.com W: www.oocl.com Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click Below to Provide Feedback or Suggestions on our service: Please Note: Demurrage payment for Houston, New Orleans, Mobile, Oakland, Seattle and Tacoma terminals must be processed through Real Time Release. For more information on Real Time Release, please proceed to our website here. From: IMPWEST/Import West Customer Service Team Sent: Thursday, August 6, 2026 10:34 AM To: 'IMPORT SM' <import01@senmartintl.com> Cc: importteam <IMPORTTEAM@senmartintl.com> Subject: RE: STATUS INQUIRY FOR SM207196 MBL#OOLU2330197320 HBL#HXM26060936 CNTR#CSNU6615701 Hello, Please see attached Arrival Notice with Pickup Number. Also issued to the emails on file. Van LeonGuerrero Senior Import Customer Service, OOCL (USA) Inc. T: 888-388-6625 E: impwest@oocl.com W: www.oocl.com Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click Below to Provide Feedback or Suggestions on our service: Please Note: Demurrage payment for Houston, New Orleans, Mobile, Oakland, Seattle and Tacoma terminals must be processed through Real Time Release. For more information on Real Time Release, please proceed to our website here. From: IMPORT SM <import01@senmartintl.com> Sent: Thursday, August 6, 2026 10:20 AM To: IMPWEST/Import West Customer Service Team <IMPWEST@oocl.com> Cc: importteam <IMPORTTEAM@senmartintl.com> Subject: Re: STATUS INQUIRY FOR SM207196 MBL#OOLU2330197320 HBL#HXM26060936 CNTR#CSNU6615701 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Dear Team, This shipment has been cleared, could you advise me on the PU number? -- Please allow 24-48 hours for Freight Release after payment received Please be advised that we no longer accept checks for amounts over $500. Regarding wire transfers, an additional bank fee of $35 will apply. We will not be held liable for any additional costs, including but not limited to demurrage, that you may incur as a result from faili",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/07/2026 01:38:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/07/2026 01:55:43,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/07/2026 01:55:42,,,,,End User,,ISDC,OPI,2026,8,32,,,
+SR-10317254,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),MTR - VIAU -  2333734320 &2333734810 - bkgs not in Termont system ( GEX1 MPJ 002 E ) - Cutoff on 8/12/2026,Closed,General Inquiry,Checked if EDI files for mentioned booking numbers were sent to partner,MNL,PHILIPPINES,"Good day GEX1 MPJ 002 E ( MSC WEST ) 3 bkgs are not updated in Termont-Viau system ( MTR08 ) , can you pls check if EDI have been sent ? E mails have been sent since trucker will return the load soon and have to make appt. Thank you. Regards, Lily Koh | OOCL (Canada) Inc. | Tel: 416-620-8950 | Internal Phone 18678950 ** Equipment is released based on first in/first out availability and pick up location is subject to change as inventory levels fluctuate ** For off hire containers, please refer to the below link to verify if your container is on the exception list (DO NOT include the check digit). http://www.oocl.com/canada/eng/localinformation/emptycontainerreturnlocation/Pages/default.aspx?site=canada&lang=eng If empty container is on the spreadsheet, the container must be delivered to the specific location. If you need assistance or empty container is on the list but has no exception return facility address, you must email NATEQPNTFY@oocl.com . From: CANEQM/Canada Equipment Control <CANEQM@oocl.com> Sent: Wednesday, August 5, 2026 2:31 PM To: Suzanne Deshaies <sdeshaies@sgceresco.com>; EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com>; Termont clerks <clerks@termont.com> Subject: VIAU - 2333734320 &2333734810 - bkgs not in Termont system Good afternoon Termont Kindly assist update following bkgs in your system : Booking # 2333734320 Cntr size/qty : 1 x 20GP POD : Liverpool Vsl/voy : MSC WEST 002 E Booking # 2333734810 Cntr size/qty : 10 x 20GP POD : Liverpool Vsl/voy : MSC WEST 002 E Regards, Lily Koh | OOCL (Canada) Inc. | Tel: 416-620-8950 | Internal Phone 18678950 ** Equipment is released based on first in/first out availability and pick up location is subject to change as inventory levels fluctuate ** For off hire containers, please refer to the below link to verify if your container is on the exception list (DO NOT include the check digit). http://www.oocl.com/canada/eng/localinformation/emptycontainerreturnlocation/Pages/default.aspx?site=canada&lang=eng If empty container is on the spreadsheet, the container must be delivered to the specific location. If you need assistance or empty container is on the list but has no exception return facility address, you must email NATEQPNTFY@oocl.com . From: Suzanne Deshaies <sdeshaies@sgceresco.com> Sent: Wednesday, August 5, 2026 2:14 PM To: EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com>; CANEQM/Canada Equipment Control <CANEQM@oocl.com> Subject: Re: 2333734320 &2333734810 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. HELLO, Can you please add the booking in termont/viau so we can make rv's please. For both bookings Much appreciated. regards, Suzanne Deshaies Responsable de site - Napierville Site manager - Napierville T. 450.427.3831 poste 279 C. 438.826.6221 A. 100 Boulevard Industriel Napierville (Québec) Canada J0J 1L0 W. sgceresco.com From: EXPEAST@oocl.com <EXPEAST@oocl.com> Sent: 05 August 2026 13:12 To: CANEQM@oocl.com <CANEQM@oocl.com>; Suzanne Deshaies <sdeshaies@sgceresco.com> Subject: RE: 2333734320 &2333734810 Hi Lily, Empty pick up amended. Randika Sooriyaarachchi Export Customer Service Representative, OOCL (Canada) Inc. T: 888-388-6625 E: expeast@oocl.com| W: www.oocl.com Click here for Earliest Terminal Receiving Date information Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click Below to Provide Feedback or Suggestions on our service: ml",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/06/2026 02:55:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/06/2026 03:11:10,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/06/2026 03:11:09,,,,,End User,,ISDC,OPI,2026,8,32,,,
+SR-10315070,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),FW: OOCL IB Demurrage LFD Advice For Bill Of Lading: 2170585030 (LGB),Closed,General Inquiry,Checked if file was sent to partner,MNL,PHILIPPINES,"Hello EDI Team, May you please check and verify that release has been sent to LBCT for this container. Please advise asap. Thank you. Best Regards, Sarah Clavesilla Long Beach Customer Service Manager, OOCL (USA), Inc T: (562) 499 - 2653 C: (562) 535 - 6561 E: sarah.clavesilla@oocl.com | W: www.oocl.com A: 111 W. Ocean Blvd, Ste 1700, Long Beach, CA 90802 From: LGBIMPORT/LGB Import (IB-CSV-OUI/LGB) <LGBIMPORT@oocl.com> Sent: Monday, August 3, 2026 11:47 AM To: IMPMGTLGB/Import Manager Long Beach <IMPMGTLGB@oocl.com> Subject: FW: OOCL IB Demurrage LFD Advice For Bill Of Lading: 2170585030 (LGB) @IMPMGTLGB/Import Manager Long Beach, please urgently check with our EDI team. CSGU7129496 – demurrage cleared through today 8/3 CSGU7134208 – LFD is 8/6 Release EDI sent today at 9:46 am. LBCT is asking us to check with our IT team. Thanks, Jane Lacanilao❀ Import Customer Service, OOCL (USA) Inc. T: 562.499.2600 T: 888-388-6625 E: lgbimport@oocl.com | W: www.oocl.com Click below to provide feedback or suggestions on our service: From: LBCTCS OOL <lbctcs.ool@lbct.com> Sent: Monday, August 3, 2026 10:48 AM To: LGBIMPORT/LGB Import (IB-CSV-OUI/LGB) <LGBIMPORT@oocl.com>; edwin.rodriguez@shipallways.com Cc: aneta.donda@shipallways.com Subject: RE: OOCL IB Demurrage LFD Advice For Bill Of Lading: 2170585030 (LGB) CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Good morning, Please follow up with your IT department for assistance Kind regards, Holly Brittain LBCT for OOCL Customer Service, LBCT LLC Office: 562-951-6019 Website: www.lbct.com From: LGBIMPORT@oocl.com <LGBIMPORT@oocl.com> Sent: Monday, August 3, 2026 10:38 AM To: edwin.rodriguez@shipallways.com; LBCTCS OOL <lbctcs.ool@lbct.com> Cc: aneta.donda@shipallways.com Subject: RE: OOCL IB Demurrage LFD Advice For Bill Of Lading: 2170585030 (LGB) EXTERNAL EMAIL: This email originated from outside of the LBCT organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. @LBCTCS OOL, release EDI was sent today at 9:46 am. Please advise why freight hold is still active on your end. Thanks, Jane Lacanilao❀ Import Customer Service, OOCL (USA) Inc. T: 562.499.2600 T: 888-388-6625 E: lgbimport@oocl.com | W: www.oocl.com Click below to provide feedback or suggestions on our service: From: Edwin Rodriguez <edwin.rodriguez@shipallways.com> Sent: Monday, August 3, 2026 9:02 AM To: LGBIMPORT/LGB Import (IB-CSV-OUI/LGB) <LGBIMPORT@oocl.com> Cc: OUIARAPC/OUI AR (APC-FINCON-OOCLL/SHA) <OUIARAPC@oocl.com>; NATAR/NAT Accounts Receivable (FINCON-OUI/SLC) <NATAR@oocl.com>; aneta.donda@shipallways.com Subject: Re: OOCL IB Demurrage LFD Advice For Bill Of Lading: 2170585030 (LGB) CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Hi, Urgently provide the demurrage invoice as soon as possible to proceed with payment. Please advise why the second container for this shipment is on hold it it was only discharged today and the freight payment was already done. Thanks. On Fri, Jul 31, 2026 at 4:17 PM <LGBIMPORT@oocl.com> wrote: Please note that all electronic payments are processed overseas. Be advised that ACH/Wire payments can take up to 24-48 hours to process. For PayCargo & Cargo Sprint, OOCL will receive the funds the next business day if approved by PayCargo before 6PM EST / 3PM PST. If the payment is received after 6pm it could take up to 48 hours to process. We DO NOT have same day pay and release. Thanks, Jane Lacanilao❀ Import Customer Service, OOCL (USA) Inc. T: 562.499.2600 T: 888-388-6625 E: lgbimport@oocl.com | W: www.oocl.com Click below to provide feedback or suggestions on our service: From: Edwin Rodriguez <edwin.rodriguez@shipallways.com> Sent: Friday, July 31, 2026 12:59 PM To: LGBIMPORT/LGB Import (IB-CSV-OUI/LGB) <LGBIMPORT@oocl.com> Cc: OUIARAPC/OUI AR (APC-FINCON-OOCLL/SHA) <OUIARAPC@oocl.com>; NATAR/NAT Account",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/04/2026 02:57:06,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/04/2026 03:03:41,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/04/2026 03:03:40,,,,,End User,,ISDC,OPI,2026,8,32,,,
+SR-10315029,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: OOCL MONTREAL V. 392E - OOCL bookign 2331937700 (RS),Closed,General Inquiry,Checked if files for mentioned booking were sent to partner,MNL,PHILIPPINES,"@EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) EDI Team, Could you please investigate why it was not synced in the terminal system on 7/16? Regards, Luis Corrales Operations Specialist, OOCL inc. E: luis.corrales@oocl.com W: www.oocl.com A: Costa Rica, San Jose, Escazu. From: EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com> Sent: Monday, August 3, 2026 7:00 AM To: EOCMTR/Export Operation of Montreal Port <EOCMTR@oocl.com>; JUSTIN GRUBB (OB-CSV-OUI/CHS) <justin.grubb@oocl.com>; SALMORRISA/Sarah Morrison Sales Support <sales.sarah.morrison@oocl.com> Cc: SARAH MORRISON (SAL-M&S-OCI/TOR) <sarah.morrison@oocl.com> Subject: RE: OOCL MONTREAL V. 392E - OOCL bookign 2331937700 (RS) Hello Luis, Given booking was amended to non-DG and not updated in terminal system, does OOCL have the ability to invoice the terminal for charges from Contrans? Best Regards, Justin Grubb Asst Manager Export Customer Service, OOCL (USA) Inc. T: 888-388-6625 E: expeast@oocl.com I W: www.oocl.com Click here for Earliest Terminal Receiving Date information Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click Below to Provide Feedback or Suggestions on our service: From: EOCMTR/Export Operation of Montreal Port <EOCMTR@oocl.com> Sent: Thursday, July 30, 2026 11:03 AM To: JUSTIN GRUBB (OB-CSV-OUI/CHS) <justin.grubb@oocl.com>; SALMORRISA/Sarah Morrison Sales Support <sales.sarah.morrison@oocl.com>; EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com> Cc: SARAH MORRISON (SAL-M&S-OCI/TOR) <sarah.morrison@oocl.com>; RIAZ HUSSAIN (CSV-OCI/TOR) <riaz.hussain@oocl.com>; EOCMTR/Export Operation of Montreal Port <EOCMTR@oocl.com> Subject: RE: OOCL MONTREAL V. 392E - OOCL bookign 2331937700 (RS) Hello Justin, Just want to confirm that this is not EOC's responsibility ,EOC changed DG to GC as soon as we received the notification request from Terminal, we can't decide who's fault is, but in my opinion it's not Terminal's error. Regards, Luis Corrales Operations Specialist, OOCL inc. E: luis.corrales@oocl.com W: www.oocl.com A: Costa Rica, San Jose, Escazu. From: JUSTIN GRUBB (OB-CSV-OUI/CHS) <justin.grubb@oocl.com> Sent: Thursday, July 30, 2026 7:11 AM To: SALMORRISA/Sarah Morrison Sales Support <sales.sarah.morrison@oocl.com>; EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com>; EOCMTR/Export Operation of Montreal Port <EOCMTR@oocl.com> Cc: SARAH MORRISON (SAL-M&S-OCI/TOR) <sarah.morrison@oocl.com>; RIAZ HUSSAIN (CSV-OCI/TOR) <riaz.hussain@oocl.com> Subject: RE: OOCL MONTREAL V. 392E - OOCL bookign 2331937700 (RS) Hello Kris, After my gathering, please note the below timeline of events: 7/15: SR received to update from DG to GC 7/16: customer provided MSDS 7/16: DG team confirmed approved as non-DG, updated accordingly by CSU 7/21: Contrans driver for CTR 7/22 9:13am: Contrans reached out to MTR to confirm if booking showed as GC or DG, 7/22 9:14am: MTR still showed as DG 7/22 10:57am: EOC advised MTR booking is non-DG 7/22 11:01am: MTR confirmed updated in their system and good to send in driver EOC – please confirm if the responsibility of this issue falls on OOCL or the terminal Best Regards, Justin Grubb Asst Manager Export Customer Service, OOCL (USA) Inc. T: 888-388-6625 E: expeast@oocl.com I W: www.oocl.com Click here for Earliest Terminal Receiving Date information Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click Below to Provide Feedback or Suggestions on our service: From: SALMORRISA/Sarah Morrison Sales Support <sales.sarah.morrison@oocl.com> Sent: Thursday, July 30, 2026 8:48 AM To: EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com>; JUSTIN GRUBB (OB-CSV-OUI/CHS) <justin.grubb@oocl.com>; EOCMTR/Export Operation of Montreal Port <EOCMTR@oocl.com> Cc: SARAH MORRISON (SAL-M&S-OCI/TOR) <sarah.morrison@oocl.com> Subject: RE: OOCL MONTREAL V. 392E - OOCL bookign 2331937700 (RS) Hi Justin, my understanding is that Contrans is requesting OOCL approve layover and 1.5 hours wait time at CAST as terminal was not updated to GC until this morning. If booking was not",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/04/2026 00:28:06,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/04/2026 02:21:49,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/04/2026 02:21:48,,,,,End User,,ISDC,OPI,2026,8,32,,,
+SR-10315039,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),Issue with EDI Coprar file,Closed,General Inquiry,Checked on why the attached file encountered an error,MNL,PHILIPPINES,"Hello Team, Could you please check the attached file? I trying to send a revised Version of this Coprar but I think the information provided by Cosco is not correct, please check BP-590 which I think is the one with the problem. I upload the file a few minutes ago but did not receive any email back. Thanks in advance. Regards, Luis Corrales Operations Specialist, OOCL inc. E: luis.corrales@oocl.com W: www.oocl.com A: Costa Rica, San Jose, Escazu.",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/04/2026 01:09:06,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/04/2026 01:23:47,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/04/2026 01:23:47,,,,,End User,,ISDC,OPI,2026,8,32,,,
+SR-10313500,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),edi 2333387100 ,Closed,General Inquiry,Booking has been resent to PNG01.,SSZ,BRAZIL,"Please reprocess EDI for 2333387100 - PNG01 - TCP, Paranagua, Parana, Brazil",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/01/2026 03:54:13,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/01/2026 08:44:52,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/01/2026 08:44:52,,,,,End User,,CSV,CSBR,2026,7,31,,,
+SR-10313498,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI 2334086170 e 2334086200,Closed,General Inquiry,Bookings have been resent to PNG01.,SSZ,BRAZIL,"Please reprocess EDI for EDI 2334086170 e 2334086200 - PNG01 - TCP, Paranagua ",,,,,REGINA HELENA (CSV-CSBR/SSZ),08/01/2026 03:52:22,REGINA HELENA (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/01/2026 08:44:43,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/01/2026 08:44:42,,,,,End User,,CSV,CSBR,2026,7,31,,,
+SR-10313478,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EDI BKG 2332681940 - TCP,Closed,General Inquiry,Booking has been resent to PNG01.,,,"TEAM, PLS RESEND EDI TO PNG01-TCP, Paranagua, Parana, Brazil",,,,,BRAZILCSV/BRAZIL CUSTOMER SERVICES CONTACT,08/01/2026 01:22:22,GABRIEL FERNANDES (CSV-CSBR/SSZ),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/01/2026 08:44:29,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/01/2026 08:44:28,,,,,End User,,,,2026,7,31,,,
+SR-10313487,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: 2335119180 - Unable to Pull Empty Container- BAL ,Closed,General Inquiry,Reprocessed affected booking,MNL,PHILIPPINES,"@EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) As per below, our system shows Lloyds number for the One Satisfaction in 1023035 but terminal received our EDI showing 405173. Can you check and advise why and can you transmit the correct Lloyds code 0of 1023035 to BAL01? Please note the difference in the Lloyd’s ID V1*405173*ONE SATISFACTION**004E****L – Booking # 2335119180 V1*1023035*ONE SATISFACTION**004E****L Rgds Richard Nickerson | Regional Operations Manager, New York City | OOCL (USA) Inc. | 917-407-0265 Cell | We take it personally! From: EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com> Sent: Friday, July 31, 2026 1:26 PM To: ANNE FRAME (TML-OPS-OUI/ORF) <anne.frame@oocl.com>; BALOPS/Baltimore OPS <BALOPS@oocl.com>; JUSTIN GRUBB (OB-CSV-OUI/CHS) <justin.grubb@oocl.com> Subject: RE: 2335119180 - Unable to Pull Empty Container- BAL Hi Anne, I’m including my manager @JUSTIN GRUBB (OB-CSV-OUI/CHS. Hi Justin, are you familiar with the below request? Thanks, Susan Susan Gourdin Export Customer Service, OOCL (USA) Inc. T: 888-388-6625 E: expeast@oocl.com I W: www.oocl.com Click here for Earliest Terminal Receiving Date information Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click Below to Provide Feedback or Suggestions on our service: From: ANNE FRAME (TML-OPS-OUI/ORF) <anne.frame@oocl.com> Sent: Friday, July 31, 2026 1:04 PM To: EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com>; BALOPS/Baltimore OPS <BALOPS@oocl.com> Subject: RE: 2335119180 - Unable to Pull Empty Container- BAL Hi, I’m from Baltimore Ops 😊 Regards, Annie Frame Norfolk VA operations, OOCL (USA) Inc. T: 757.397.0165 E: anne.frame@oocl.com | W: www.oocl.com From: EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com> Sent: Friday, July 31, 2026 1:02 PM To: ANNE FRAME (TML-OPS-OUI/ORF) <anne.frame@oocl.com>; BALOPS/Baltimore OPS <BALOPS@oocl.com> Subject: RE: 2335119180 - Unable to Pull Empty Container- BAL Hi Anne, Are you addressing this to me or BALOPS? I am not familiar with the below information. Thanks, Susan Susan Gourdin Export Customer Service, OOCL (USA) Inc. T: 888-388-6625 E: expeast@oocl.com I W: www.oocl.com Click here for Earliest Terminal Receiving Date information Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click Below to Provide Feedback or Suggestions on our service: From: ANNE FRAME (TML-OPS-OUI/ORF) <anne.frame@oocl.com> Sent: Friday, July 31, 2026 10:56 AM To: EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com>; BALOPS/Baltimore OPS <BALOPS@oocl.com> Subject: RE: 2335119180 - Unable to Pull Empty Container- BAL Please confirm data in the OOL system. EDI has Lloyd's code V1*405173*ONE SATISFACTION**004E****L but correct Lloyd's is 1023035 Regards, Annie Frame Norfolk VA operations, OOCL (USA) Inc. T: 757.397.0165 E: anne.frame@oocl.com | W: www.oocl.com From: ANNE FRAME (TML-OPS-OUI/ORF) Sent: Friday, July 31, 2026 10:48 AM To: EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com>; BALOPS/Baltimore OPS <BALOPS@oocl.com> Subject: RE: 2335119180 - Unable to Pull Empty Container- BAL Hello, Terminal advised that: Below vessel details are from OOCL’s EDI booking transmissions for ONE Satisfaction. Please note the difference in the Lloyd’s ID V1*405173*ONE SATISFACTION**004E****L – Booking # 2335119180 V1*1023035*ONE SATISFACTION**004E****L Patti Pang Regards, Annie Frame Norfolk VA operations, OOCL (USA) Inc. T: 757.397.0165 E: anne.frame@oocl.com | W: www.oocl.com From: ANNE FRAME (TML-OPS-OUI/ORF) Sent: Friday, July 31, 2026 9:02 AM To: EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com>; BALOPS/Baltimore OPS <BALOPS@oocl.com> Subject: RE: 2335119180 - Unable to Pull Empty Container- BAL Hello, Checking with the terminal on this. Regards, Annie Frame Norfolk VA operations, OOCL (USA) Inc. T: 757.397.0165 E: anne.frame@oocl.com | W: www.oocl.com From: DAVID HACKETT (TML-OPS-OUI/JEC) <david.hackett@oocl.com> Sent: Friday, July 31, 2026 7:56 AM To: EXPEAST/Export East Customer Service Team <EXPEAST@oocl.com>; BALOPS/Balti",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),08/01/2026 02:38:05,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/01/2026 03:59:23,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),08/01/2026 03:59:22,,,,,End User,,ISDC,OPI,2026,7,31,,,
