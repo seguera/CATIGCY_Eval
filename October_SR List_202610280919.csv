@@ -1,0 +1,608 @@
+﻿SR Number,Severity,Category,Root Cause Category,Subject,Status,Root Cause,Resolution,Office,Country/Region,Problem Description,Customer Category,Customer,Task Handler Group,Task Handler,Requester,Created Time,Created By,Carrier,SR Type,Issue/Action Type,SR Owner Group,SR Owner,SR Handler Group,SR Handler,Helpdesk Type,Last Modified By,Last Modified Time,Report Channel,Resolved By,Resolved At,Root Cause Detail,Followed By PCRS(s),Caused By PCRS(s),SR Tag,Reported From,Collaborated Tickets,Department,Company,Year,Month,Week,CargoSmart ID,User Email Address,Receiving Time
+SR-10384078,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),FW: NZD/CECM/Missing discharge & load EDI @ LYL01,Closed,General Inquiry,User confirmed to close the following SR,MNL,PHILIPPINES,"Dear EDI team Plz help to check if our below containres included in EDI ? If not ,plz assist to process NZD SEL LYL01 CSNU235957-7 2336782741 Confirmed Discharge TRUNK_LEG IB 20GP Suspected Missing - JKN-NFI-140 N Pusan NZD QIN LYL01 FBIU515869-8 2039072000 Confirmed Discharge TRUNK_LEG IB 40RQ Suspected Missing - JKN-NFI-140 N Qingdao NZD SEL LYL01 OOCU012274-0 2337124460 Confirmed Discharge TRUNK_LEG IB 20OT Suspected Missing - JKN-NFI-140 N Pusan NZD SEL LYL01 OOLU200542-0 2337124460 Confirmed Discharge TRUNK_LEG IB 20OT Suspected Missing - JKN-NFI-140 N Pusan NZD AKL LYL01 SEKU922808-4 2341151530 Confirmed Discharge TRUNK_LEG IB 40RQ Suspected Missing - JKN-NFI-140 N Auckland NZD NAJ LYL01 TRHU536254-7 2337395220 Confirmed Discharge TRUNK_LEG IB 40HQ Suspected Missing - JKN-NFI-140 N Nanjing NZD AKL LYL01 CCLU747471-8 2340728570 Confirmed Loading TRUNK_LEG OB 40HQ Suspected Missing - JKN-NFI-140 N Lyttelton NZD AKL LYL01 CSLU600120-2 2340728570 Confirmed Loading TRUNK_LEG OB 40HQ Suspected Missing - JKN-NFI-140 N Lyttelton NZD AKL LYL01 CSNU267319-2 2174968630 Confirmed Loading TRUNK_LEG OB 20GP Suspected Missing - JKN-NFI-140 N Lyttelton NZD AKL LYL01 OOCU636045-3 2340728570 Confirmed Loading TRUNK_LEG OB 40HQ Suspected Missing - JKN-NFI-140 N Lyttelton NZD AKL LYL01 OOCU833540-2 2174794210 Confirmed Loading TRUNK_LEG OB 40HQ Suspected Missing - JKN-NFI-140 N Lyttelton NZD AKL LYL01 OOCU976070-4 2174794200 Confirmed Loading TRUNK_LEG OB 40HQ Suspected Missing - JKN-NFI-140 N Lyttelton NZD AKL LYL01 TGBU533806-4 2340278150 Confirmed Loading TRUNK_LEG OB 40HQ Suspected Missing - JKN-NFI-140 N Lyttelton NZD AKL LYL01 TLLU333639-8 2174968630 Confirmed Loading TRUNK_LEG OB 20GP Suspected Missing - JKN-NFI-140 N Lyttelton Thanks&Best Regards Jason Zhang (Mr) 张宏一 Equipment Data Center Dual Brand Equipment Management Center For all cases ,please always sent to OOCLEDCAP3@oocl.com From: Planners <planners@lpc.co.nz> Sent: Monday, October 26, 2026 10:25 AM To: OOCLEDCAP3/OOCL EDC - AP Region 3 <OOCLEDCAP3@oocl.com>; scs.chch@qube.co.nz; Customer Services <customerservices@lpc.co.nz>; IT Team <ITTeam@lpc.co.nz> Cc: NZLOPS/NZ Operations <NZLOPS@oocl.com> Subject: RE: NZD/CECM/Missing discharge & load EDI @ LYL01 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. COMMERCIAL Good day, All Discharge containers can be found on the Fushimi – Current edi and the load containers on the Fushimi – Future. Regards, Iain Findlay Logistics Officer T: +64 21 221 0269 E: Planners@lpc.co.nz Waterfront House, 37-39 Gladstone Quay, Lyttelton 8082 ________________ From: OOCLEDCAP3@oocl.com <OOCLEDCAP3@oocl.com> Sent: Monday, 26 October 2026 14:31 To: scs.chch@qube.co.nz; Planners <planners@lpc.co.nz>; Customer Services <customerservices@lpc.co.nz>; IT Team <ITTeam@lpc.co.nz> Cc: NZLOPS@oocl.com Subject: NZD/CECM/Missing discharge & load EDI @ LYL01 Dear LPC Plz kindly check and resend the missing discharge & Load EDI for below NZD SEL LYL01 CSNU235957-7 2336782741 Confirmed Discharge TRUNK_LEG IB 20GP Suspected Missing - JKN-NFI-140 N Pusan NZD QIN LYL01 FBIU515869-8 2039072000 Confirmed Discharge TRUNK_LEG IB 40RQ Suspected Missing - JKN-NFI- Dear LPC Plz kindly check and resend the missing discharge & Load EDI for below NZD SEL LYL01 CSNU235957-7 2336782741 Confirmed Discharge TRUNK_LEG IB 20GP Suspected Missing - JKN-NFI-140 N Pusan NZD QIN LYL01 FBIU515869-8 2039072000 Confirmed Discharge TRUNK_LEG IB 40RQ Suspected Missing - JKN-NFI-140 N Qingdao NZD SEL LYL01 OOCU012274-0 2337124460 Confirmed Discharge TRUNK_LEG IB 20OT Suspected Missing - JKN-NFI-140 N Pusan NZD SEL LYL01 OOLU200542-0 2337124460 Confirmed Discharge TRUNK_LEG IB 20OT Suspected Missing - JKN-NFI-140 N Pusan NZD AKL LYL01 SEKU922808-4 2341151530 Confirmed Discharge TRUNK_LEG IB 40RQ Suspected Missing - JKN-NFI-140 N Auckland NZD NAJ LYL01 TRHU536254-7 2337395220 Confirmed Discharge TRUNK_LEG IB 40HQ Suspected Missing - JKN-NFI-140 N Nanjing NZD AKL LYL01 CCLU747471",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/26/2026 14:24:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/28/2026 09:04:38,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/28/2026 09:04:38,,,,,End User,,ISDC,OPI,2026,10,44,,,
+SR-10385336,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),EWX-JJH-048 S MZL / PA manifest submission ,In-Progress,,,SHA,CHINA-NORTH,"Dear team,
+
+EWX-JJH-048 S MZL, we tried several times but failed to get accept. it does not show any error, and we do not receive any issue report. Could you please help to check? thanks.
+
+",,,IOCMSUPP,,RYAN CHEN (CSV-NAGC/SHA),10/27/2026 15:52:03,RYAN CHEN (CSV-NAGC/SHA),OOCL,Service,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 16:09:34,Web Portal,,,,,,,End User,,CSV,OUI,2026,10,44,,,
+SR-10382938,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),Re: JKT//empty ingate for offhire//urgent!!!!!,In-Progress,,,SHA,CHINA-NORTH,"From: CHARLES X T ZHANG (IPRCD-DEVS-ISD-OOCLL/SHA) <charles.x.t.zhang@oocl.com>
+
+Sent: Friday, October 23, 2026 4:03 PM
+
+To: VINCENT ADRIAN AVILA (B2BGEDI-BCBSS-ISD-OOCLL/MNL) <vincent.adrian.avila@oocl.com>
+
+Cc: JOANN ZHU (IPRCD-DEVS-ISD-OOCLL/SHA) <joann.zhu@oocl.com>; IRIS HUANG (GTB-BPM-OLCL/SHA) <iris.huang@oocllogistics.com>; HANDALA HARAHAP (CSV-OLINL/JKT) <handala.harahap@oocllogistics.com>; MUARA DONAL (OPS-PBPL/JKT) <muara.donal@oocllogistics.com>
+
+Subject: Re: JKT//empty ingate for offhire//urgent!!!!!
+
+ 
+
+Hi @VINCENT ADRIAN AVILA (B2BGEDI-BCBSS-ISD-OOCLL/MNL)
+
+Could you help check whether you received edi file ""IDBPL20261009175403463.DAT""?
+
+Best Regards,
+
+Charles
+
+________________________________________
+
+From: MUARA DONAL (OPS-PBPL/JKT) <muara.donal@oocllogistics.com>
+
+Sent: Friday, October 23, 2026 3:31 PM
+
+To: CHARLES X T ZHANG (IPRCD-DEVS-ISD-OOCLL/SHA) <charles.x.t.zhang@oocl.com>
+
+Cc: JOANN ZHU (IPRCD-DEVS-ISD-OOCLL/SHA) <joann.zhu@oocl.com>; IRIS HUANG (GTB-BPM-OLCL/SHA) <iris.huang@oocllogistics.com>; HANDALA HARAHAP (CSV-OLINL/JKT) <handala.harahap@oocllogistics.com>
+
+Subject: JKT//empty ingate for offhire//urgent!!!!!
+
+Dear Charles,
+
+ 
+
+Could you cek for container below because EDI container below not receive.
+
+Thank you.
+
+ 
+
+Regards,
+
+ 
+
+ 
+
+ 
+
+Muara Frans Donal
+
+T: +62 (021) 4614637 |M: 0813-8334-4044
+
+E: muara.donal@oocllogistics.com |W: bungaplum.co.id
+
+A: Jl. Cakung Cilincing Raya KM 2.7, Cakung Barat. Jakarta Timur
+
+ 
+
+ 
+
+From: GRETA RAHANY (EQM-OPS-OINL/JKT) <greta.rahany@oocl.com>
+
+Sent: 23 October 2026 11:04
+
+To: PBPLCSV/CSV-PBPL/JKT <PBPLCSV@oocllogistics.com>; OOCLEDCAP2/OOCL EDC - AP Region 2 <OOCLEDCAP2@oocl.com>
+
+Cc: OINLEQM/Equipment OINL (EQM-OINL/JKT) <OINLEQM@oocl.com>
+
+Subject: Fw: JKT//empty ingate for offhire//urgent!!!!!
+
+ 
+
+Dear Pak Muara and Pak Agus
+
+ 
+
+Please assist to check and advise if gate in already updated 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Greta Rahany
+
+Equipment Operation, PT OOCL Indonesia
+
+T: 021-30405151
+
+E: OINLEQM@OOCL.COM | W: www.oocl.com
+
+A:Wisma 46 - Kota BNI 22nd Floor, Suite # 2201
+
+Jl. Jend. Sudirman Kav. 1 Jakarta 10220
+
+ 
+
+________________________________________
+
+From: OOCLEDCAP2/OOCL EDC - AP Region 2 <OOCLEDCAP2@oocl.com>
+
+Sent: Thursday, October 22, 2026 12:58 PM
+
+To: OINLEQM/Equipment OINL (EQM-OINL/JKT) <OINLEQM@oocl.com>
+
+Subject: JKT//empty ingate for offhire//urgent!!!!!
+
+ 
+
+Dear EQM
+
+ 
+
+Please check and confirm offhire facility, these containers are missing ingate events, thanks!
+
+ 
+
+Event Type
+
+Contra
+
+Checkpt Status
+
+Checkpoint
+
+Cntr No
+
+Cntr Size/Type
+
+Laden(F)/Empty(E)
+
+Rejection Reason
+
+Doc Ref
+
+Curr Loc
+
+Event Datetime
+
+OffHire
+
+O
+
+Rejected
+
+EQM
+
+CBHU906642-2
+
+40HQ
+
+E
+
+The latest event status is not MTA
+
+M204136SCN694
+
+JKT15
+
+10/7/2026 22:59
+
+OffHire
+
+O
+
+Rejected
+
+EQM
+
+FCIU506889-4
+
+20GP
+
+E
+
+The latest event status is not MTA
+
+M250003VND012
+
+JKT12
+
+10/9/2026 22:59
+
+OffHire
+
+O
+
+Rejected
+
+EQM
+
+DFSU622020-1
+
+40HQ
+
+E
+
+The latest event status is not MTA
+
+M220003XMR006
+
+JKT12
+
+10/9/2026 22:59
+
+OffHire
+
+O
+
+Rejected
+
+EQM
+
+CBHU896920-2
+
+40HQ
+
+E
+
+The latest event status is not MTA
+
+M250003SCN122
+
+JKT15
+
+10/9/2026 22:59
+
+OffHire
+
+O
+
+Rejected
+
+EQM
+
+FCIU508705-0
+
+20GP
+
+E
+
+The latest event status is not MTA
+
+M240005SCN044
+
+JKT15
+
+10/10/2026 22:59
+
+OffHire
+
+O
+
+Rejected
+
+EQM
+
+CBHU430009-7
+
+20GP
+
+E
+
+The latest event status is not MTA
+
+M250004GER073
+
+JKT15
+
+10/7/2026 22:59
+
+OffHire
+
+O
+
+Rejected
+
+EQM
+
+DFSU644122-3
+
+40HQ
+
+E
+
+The latest event status is not MTA
+
+M250003NNR043
+
+JKT15
+
+10/7/2026 22:59
+
+OffHire
+
+O
+
+Rejected
+
+EQM
+
+BMOU512018-7
+
+40HQ
+
+E
+
+The latest event status is not MTA
+
+M214185SCN457
+
+JKT12
+
+9/3/2026 22:59
+
+OffHire
+
+O
+
+Rejected
+
+EQM
+
+DFSU692891-0
+
+40HQ
+
+E
+
+The latest event status is not MTA
+
+M250003SCN045
+
+JKT12
+
+10/9/2026 22:59
+
+OffHire
+
+O
+
+Rejected
+
+EQM
+
+FCIU507595-4
+
+20GP
+
+E
+
+The latest event status is not MTA
+
+M214185THI294
+
+JKT15
+
+10/9/2026 22:59
+
+OffHire
+
+O
+
+Rejected
+
+EQM
+
+CCLU760913-5
+
+40HQ
+
+E
+
+The latest event status is not MTA
+
+M250003NNR065
+
+JKT15
+
+10/7/2026 22:59
+
+OffHire
+
+O
+
+Rejected
+
+EQM
+
+FCIU497819-0
+
+20GP
+
+E
+
+The latest event status is not MTA
+
+M2",,,,,CHARLES X T ZHANG (IPRCD-DEVS-ISD-OOCLL/SHA),10/23/2026 16:14:29,VINCENT ADRIAN AVILA (B2BGEDI-BCBSS-ISD-OOCLL/MNL),OOCL,Issue/Incident,,GEDI,VINCENT ADRIAN AVILA (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,VINCENT ADRIAN AVILA (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 15:12:02,Web Portal,,,,,,,End User,,ISD,OOCLL,2026,10,43,,,
+SR-10385246,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking Re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-27 02:47:35 PM Booking Numbers: 2341266930 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/27/2026 14:50:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 14:51:50,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 14:51:50,,,,,End User,,ISDC,OPI,2026,10,44,,,
+SR-10385174,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for IVY ANTASYA (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: IVY ANTASYA (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-27 01:55:45 PM Booking Numbers: 2340113000 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/27/2026 14:02:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 14:36:39,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 14:36:38,,,,,End User,,ISDC,OPI,2026,10,44,,,
+SR-10385172,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-27 01:54:29 PM Booking Numbers: 2175822390 2341711090 2341987070 2340869200 2340899141 2342939310 2340780540 2340791830 2766666050 2340813880 2340780691 2340780690 2340938380 2340887300 2340827260 2340887430 2340827290 2340856510 2340843840 2175039360 2175039370 2340828600 2340749030 2340702380 2340702660 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/27/2026 14:00:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 14:36:24,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 14:36:24,,,,,End User,,ISDC,OPI,2026,10,44,,,
+SR-10385189,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),Please assist in re-checking bookings  as we are unable to submit the EDI information to MTL system - PSX OERU 215E / RTS1,In-Progress,,,MNL,PHILIPPINES,"Dears Please assist in re-checking below bookings , as we are unable to submit the EDI information to MTL system . Could you please advise on the reason? thanks. Booking Number From City To City 1st Loading Voyage ETD/ATD at 1st Loading Terminal Cargo Cutoff Block Number 23428573807 HKG-Hong Kong,Hong Kong, China LGB-Long Beach,Los Angeles, California, United States PSX-OEU-215 E 08 Nov 2026 (Sun), 10:00(HKT) Est. 06 Nov 2026 (Fri), 19:00(HKT) 8 23428578305 HKG-Hong Kong,Hong Kong, China LGB-Long Beach,Los Angeles, California, United States PSX-OEU-215 E 08 Nov 2026 (Sun), 10:00(HKT) Est. 06 Nov 2026 (Fri), 19:00(HKT) 8 23428575306 HKG-Hong Kong,Hong Kong, China LGB-Long Beach,Los Angeles, California, United States PSX-OEU-215 E 08 Nov 2026 (Sun), 10:00(HKT) Est. 06 Nov 2026 (Fri), 19:00(HKT) 8 Beat Regards Shirley Tse OBCSV/OHKB Tel: (852) 2506 6666 / (IPT:1456870) From: Lin, Louis <louis.lin@modernterminals.com> On Behalf Of Berth Allocation Sent: Tuesday, October 27, 2026 9:19 AM To: TERRY H Y LI (PORT-OPS-OHKB/HKG) <terry.h.y.li@oocl.com>; SHIRLEY TSE (OB-CSV-OHKB/HKG) <shirley.tse@oocl.com>; Berth Allocation <berth.allocation@Modernterminals.com> Cc: PHOENIX CHAN (OB-CSV-OHKB/HKG) <phoenix.chan@oocl.com>; JOCELYN YANG (OB-CSV-OHKB/HKG) <jocelyn.yang@oocl.com>; MARHKG/Vessel Operation of Hongkong <MARHKG@OOCL.COM>; ops.ba@hit.com.hk; HKGRTFC/Hong Kong Sub-Regional Traffic of OHKL <HKGRTFC@oocl.com> Subject: RE: Please kindly inform MTL to create the OOCL EUROPE 215E Block code USLG8 / rts1 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Dear Terry, USLG8 has been added on OOCL EUROPE 215E port routing accordingly. Best regards, Modern Terminals Limited Berth Allocation –Louis Tel: (852) 2115 3778 Group Email: berth.allocation@ModernTerminals.com Website: www.ModernTerminals.com From: terry.h.y.li@oocl.com <terry.h.y.li@oocl.com> Sent: Tuesday, October 27, 2026 8:57 AM To: shirley.tse@oocl.com; Berth Allocation <berth.allocation@Modernterminals.com> Cc: phoenix.chan@oocl.com; jocelyn.yang@oocl.com; marhkg@oocl.com; HKGRTFC@oocl.com Subject: RE: Please kindly inform MTL to create the OOCL EUROPE 215E Block code USLG8 / rts1 This message is from an EXTERNAL SENDER - be CAUTIOUS, particularly with links and attachments. Dear BA Pls assist below, Thank you Best Regards Terry Li Operation Dept. / OOCL Hong Kong Branch Tel : (852)-2506 6704 / Mob: (852)-6017 3207 Fax : (852)-2506 0036 / IP Phone: 1454 6704 OOCL (HK) address 16/F., One Harbour Square,181 Hoi Bun Road,Kwun Tong,Hong Kong. From: HKGRTFC/Hong Kong Sub-Regional Traffic of OHKL <HKGRTFC@oocl.com> Sent: Tuesday, October 27, 2026 8:56 AM To: MARHKG/Vessel Operation of Hongkong <MARHKG@OOCL.COM> Cc: PHOENIX CHAN (OB-CSV-OHKB/HKG) <phoenix.chan@oocl.com>; HKGRTFC/Hong Kong Sub-Regional Traffic of OHKL <HKGRTFC@oocl.com>; JOCELYN YANG (OB-CSV-OHKB/HKG) <jocelyn.yang@oocl.com>; SHIRLEY TSE (OB-CSV-OHKB/HKG) <shirley.tse@oocl.com> Subject: Please kindly inform MTL to create the OOCL EUROPE 215E Block code USLG8 / rts1 Dear MARHKG Please kindly inform MTL to create the OOCL EUROPE 215E Block code USLG8 , as Booking EDI Rejection from MTL reason WORLD MAP PORT[UN/USLG8] NOT FOUND . thanks Beat Regards Shirley Tse OBCSV/OHKB Tel: (852) 2506 6666 / (IPT:1456870) Disclaimer : This email and all contents are subject to the following disclaimer: http://emaildisclaimer.oocl.com/default.html Modern Terminals is pleased to have been awarded 15 Years Plus Caring Company Logo The information in this e-mail is confidential and may be privileged or otherwise protected. If you are not the intended recipient, you must not read, use or disseminate that information. If you have received this e-mail in error, please notify us and destroy it immediately. E-mail communication cannot be guaranteed to be reliable, secure, error-free or virus-free. Accordingly, we cannot accept liability for any damage sustained as a result of any virus, error or incompleteness of this e-mail or a",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/27/2026 14:16:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 14:16:37,Email,,,,,,,End User,,ISDC,OPI,2026,10,44,,,
+SR-10385116,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for IVY ANTASYA (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking Re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: IVY ANTASYA (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-27 11:16:35 AM Booking Numbers: 2342866010 2342529420 2342446620 2342563940 2342530210 2175731040 2175626640 2175368750 2341120500 2340666670 2342089380 2342089430 2341721650 2341830780 2175372400 2175372390 2341470020 2341426350 2341440030 2341402290 2341411470 2341131190 2174978180 2174978070 2174951900 2174952730 2174956190 2340740430 2340666440 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/27/2026 13:04:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 13:15:07,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 13:15:06,,,,,End User,,ISDC,OPI,2026,10,44,,,
+SR-10382846,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),Looking for a 214 / XML message containing Actual Departure / Actual Arrival information,Closed,General Inquiry,File retrieval,MNL,PHILIPPINES,"Dear Team, I have discussed opportunity of receiving Actual Departure and Actual Arrival Date/Time information at appointment location of a shipment with GPITC team. I was told that we have a 214/XML message spec in place that partner can send events in that format to us. As a reference I received the following JO# which shows such Actual Departure information. While having no TP ID, do you have a chance to search for such 214/XML message just by JO # and date range (around Sep 30th) ? JO: 3630660205 Many thanks for your help. Best Regards Sven",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/23/2026 15:16:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:26:45,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:26:45,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10382884,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking Re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-23 03:37:40 PM Booking Numbers: 2341727940 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/23/2026 15:38:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:20:12,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:20:11,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10382863,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking Re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-23 02:50:39 PM Booking Numbers: 2341727940 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/23/2026 15:24:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:19:18,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:19:18,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10382855,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking Re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-23 03:20:11 PM Booking Numbers: 2175113580 2175113540 2340587810 2340172110 2339890860 2342478470 2341714730 2340001280 2340587290 2039110030 2039110070 2342478140 2341437960 2340970790 2340559950 2174864730 2342276650 2174864290 2039110010 2039110050 2339890490 2340687200 2341437940 2341824850 2341769040 2341825190 2341768840 2174977000 2340545120 2341105110 2340588320 2340472430 2341104950 2340171050 2340010200 2340806040 2341597010 2342016910 2340263770 2340480680 2340478050 2340645260 2341266930 2342016560 2340472030 2341458090 8883059230 2340395780 2340356460 2341396190 2175036860 2340198030 2342081270 2338283290 2340928520 2340676300 2174717740 2341427890 2341031430 2342081260 2341020410 2342022590 2175424890 2340479270 2340477370 2340122980 2340755760 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/23/2026 15:21:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:18:29,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:18:28,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10382808,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking Re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-23 02:38:47 PM Booking Numbers: 2342549750 2342604360 2039173580 2341332350 2341848990 2341929290 2342024150 2340264670 2341260680 2039173590 2341820810 2340928560 2341709130 2341428260 2338880880 2039173600 2341425200 2341929540 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/23/2026 14:48:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:17:24,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:17:24,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10382807,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking Re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-23 02:45:06 PM Booking Numbers: 2341988570 2339128910 2342170070 2340464050 2341056230 2339978330 2338644290 2338643920 2340011610 2340011710 2341533860 2339990890 2340199010 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/23/2026 14:48:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:17:10,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:17:10,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10380887,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for IVY ANTASYA (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking Re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: IVY ANTASYA (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-21 03:36:59 PM Booking Numbers: 2341820810 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/21/2026 16:10:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:11:06,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:11:05,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10381718,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for IVY ANTASYA (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking Re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: IVY ANTASYA (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-22 02:31:23 PM Booking Numbers: 2340457830 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/22/2026 14:33:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:10:05,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:10:05,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10381647,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for IVY ANTASYA (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking Re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: IVY ANTASYA (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-22 01:40:28 PM Booking Numbers: 2342308540 2339988100 2342309270 2339978540 2339978420 2341255320 2342312010 2342309880 2342222130 2342222320 2341626900 2341627200 2341627570 2341627130 2341877670 2341822190 2341819010 2339897750 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/22/2026 13:41:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:09:17,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:09:17,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10380888,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for IVY ANTASYA (MARINE-OPS-OMSB/PKG) /KMT/IFTMBC,Closed,General Inquiry,Booking Re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: IVY ANTASYA (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-21 03:36:12 PM Booking Numbers: 2341820810 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/21/2026 16:10:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:08:39,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:08:38,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10380889,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL) /BORGO-TERMINAL/COPARN,Closed,General Inquiry,Booking Re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL) Selected Partner and Message Type: BORGO-TERMINAL/COPARN Timestamp: 2026-10-21 03:33:42 PM Booking Numbers: 2174850600 2175657150 2342361040 2175537280 2342357480 2341931520 2342350700 2342223640 2175652760 2342352730 2342177440 2342360200 2175594920 2340961430 2340961190 2342358990 2175579430 2175596780 2342067460 2175490110 2175053970 2175600590 2175596840 2342214800 2175594290 2342183860 2175033790 2341147150 2341926340 2175489180 2175378940 2175379340 2341610660 2175433890 2341803860 2341799620 2175373930 2339915050 2339071390 2340915410 2341660430 2341613310 2341650250 2175375030 2175021970 2341639560 2341639580 2340637640 2340639950 2340639840 2175317890 2341519440 2175316830 2341519570 2340992320 2340906470 2340983310 2340899150 2340763080 2340633630 2340633650 2174849550 2340354170 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/21/2026 16:10:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:08:23,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:08:23,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10380745,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: CSS3 OBE 625 S OOCL BELGIUM 625 S -  VGM DATA NOT RECEIVED,Closed,General Inquiry,File upload,MNL,PHILIPPINES,"Hi EDISUPP, Please proceed to upload and process the attached files. Hi @ZUKERI MOHD YUSOF (MARINE-OPS-OMSB/PGU) – please note if the events without the VGM has already been accepted in our IR4 even if we upload/process the same events with VGM, our system will treat these as duplicated events and auto-reject the events. Hence, for such cases, the VGM will have to be manually handled/updated in to IRIS4 Regards, Michael From: ZUKERI MOHD YUSOF (MARINE-OPS-OMSB/PGU) <zukeri.mohd.yusof@oocl.com> Sent: Wednesday, October 21, 2026 12:55 PM To: EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) <EDISUPP@oocl.com>; MICHAEL WAN (ITPI&PT-GPIT-ISD-OOCLL/SIN) <michael.wan@oocl.com> Cc: WENDY FAN (OB-CSV-OMSB/PGU) <wendy.fan@oocl.com> Subject: RE: CSS3 OBE 625 S OOCL BELGIUM 625 S - VGM DATA NOT RECEIVED Dear EDISUPP/Michael, Pls assist to upload VGM as per attached. Best Regards Zukeri Mohd Yusof Operation Department Orient Overseas Container Line (M) Sdn Bhd (234972-U) Tel : +607-3335066 Ext : 8008 Mobile : +6012-2831093 E mail : zukeri.mohd.yusof@oocl.com Website : www.oocl.com Address : Unit 23A-08, Level 23A, Menara Landmark, No. 12, Jalan Ngee Heng, 80000 Johor Bahru, Johor, Malaysia From: Faruzaini Ahmad Shahroh <faruzaini@johorport.com.my> Sent: Wednesday, October 21, 2026 12:52 PM To: Fatrissia Mae Kassim <fatrissia@johorport.com.my>; ZUKERI MOHD YUSOF (MARINE-OPS-OMSB/PGU) <zukeri.mohd.yusof@oocl.com>; Jct Customer Service <jct.csc@johorport.com.my>; Salehuddin Kamsuri <saleh@johorport.com.my> Cc: WENDY FAN (OB-CSV-OMSB/PGU) <wendy.fan@oocl.com>; Siti Nur Adilah Abdul Halim <nur.adilah@johorport.com.my>; Kasyah Luqman <shahrel@johorport.com.my>; Rahim Isa <isa.rahim@johorport.com.my>; Mohd Husaini Ismail <mohd.husaini@johorport.com.my>; Nur Farhana Izwani Mohamad Ezani <farhana.izwani@johorport.com.my>; Zaharah Kardy <zaharah@johorport.com.my>; Norlizam Nordin <norlizam@johorport.com.my> Subject: RE: CSS3 OBE 625 S OOCL BELGIUM 625 S - VGM DATA NOT RECEIVED CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Dear @zukeri.mohd.yusof@oocl.com, We had regenerate the EDI as attached. Best Regards, From: Fatrissia Mae Kassim <fatrissia@johorport.com.my> Sent: Wednesday, 21 October, 2026 12:22 To: zukeri.mohd.yusof@oocl.com; Jct Customer Service <jct.csc@johorport.com.my>; Faruzaini Ahmad Shahroh <faruzaini@johorport.com.my>; Salehuddin Kamsuri <saleh@johorport.com.my> Cc: wendy.fan@oocl.com; Siti Nur Adilah Abdul Halim <nur.adilah@johorport.com.my>; Kasyah Luqman <shahrel@johorport.com.my>; Rahim Isa <isa.rahim@johorport.com.my>; Mohd Husaini Ismail <mohd.husaini@johorport.com.my>; Nur Farhana Izwani Mohamad Ezani <farhana.izwani@johorport.com.my>; Zaharah Kardy <zaharah@johorport.com.my>; Norlizam Nordin <norlizam@johorport.com.my> Subject: RE: CSS3 OBE 625 S OOCL BELGIUM 625 S - VGM DATA NOT RECEIVED Dear @Faruzaini Ahmad Shahroh Kindly assist. For new Terminal Operating System (CATOS) Container Terminal, please watch the guideline via Johor Port - Download Center Thanks, and regards From: zukeri.mohd.yusof@oocl.com <zukeri.mohd.yusof@oocl.com> Sent: Wednesday, 21 October, 2026 12:14 To: Jct Customer Service <jct.csc@johorport.com.my>; Faruzaini Ahmad Shahroh <faruzaini@johorport.com.my>; Salehuddin Kamsuri <saleh@johorport.com.my> Cc: wendy.fan@oocl.com; Siti Nur Adilah Abdul Halim <nur.adilah@johorport.com.my>; Kasyah Luqman <shahrel@johorport.com.my>; Rahim Isa <isa.rahim@johorport.com.my>; Mohd Husaini Ismail <mohd.husaini@johorport.com.my>; Nur Farhana Izwani Mohamad Ezani <farhana.izwani@johorport.com.my>; Zaharah Kardy <zaharah@johorport.com.my>; Fatrissia Mae Kassim <fatrissia@johorport.com.my>; Norlizam Nordin <norlizam@johorport.com.my> Subject: FW: CSS3 OBE 625 S OOCL BELGIUM 625 S - VGM DATA NOT RECEIVED CAUTION: This e-mail originated from outside of Johor Port Berhad organization. DO NOT click links or open any attachments unless you recognize the sender and know the content is safe. Dear JCT Team, Pls assist to ",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/21/2026 14:33:36,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:04:29,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:04:28,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10379901,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),HAI02 CODECO COARRI seems missing,Closed,General Inquiry,"Checked if EDI was received, ongoing coordination via email",MNL,PHILIPPINES,"Hi EDI Support, There are reported issues about recent setup of HAI02 CODECO COARRI. CODECO empty gate-out event seems missing, e.g. OOLU6529658 COARRI loading event seems failed processing in IR4 due to SVVD matching failed but cannot locate the EDI file by VLTrader, e.g. FBIU5649747 I have been using this to check but seems the interchange ID is not available “HKHC” https://obspprd.oocl.com/WLS_OB2BVEN_ISP/shipmenttracking/isu_b2b_shipmenttracking_result.jsf So, questions: What is the latest url for quick checking of EDI file processing log? For above 2 cases, could you help check if any EDI files received from partner id “HKHC”? Thanks. IR4 EEC result shows FBIU5649747 loading event was received. Best Regards, Kelvin Chan T: +852 2233 8593 | IP Phone: 14548593",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/20/2026 16:18:33,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:02:45,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:02:44,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10379817,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),Re: PCC1 OOCL BERLIN/OBN 061E I /B Packages for LBCT,Closed,General Inquiry,"Checked if EDI was sent to partner, ongoing coordination via email",MNL,PHILIPPINES,"HI @EDISUPP/MNL EDI Support (ISD-OOCLL/MNL), The departure BAPLIE file for OOCL BERLIN with call port PUS is uploaded. Kindly check whether the outgoing EDI has been sent successfully. Please refer to the filenames below for your retrieval: BAPLIE-PCC1-OBN-061-E-1-PUS-PUS13-1-LGB-LGB10-CAICA-20261018141410-Departure.LBCTEDI.xml Thank you. Best Regards, Patrick Cedie Adriano OOCL (Philippines) Inc. From: MATTHEW LYMAN (MGT-MAROPSAM-MOC-OOCLL/LGB) <matthew.lyman@oocl.com> Sent: Tuesday, October 20, 2026 1:30 PM To: SBMNLSP/Stowage Bank MNL Support Team <SBMNLSP@oocl.com>; SBMNL/STOWAGEBANK MNL Team <SBMNL@oocl.com>; SBSUPP/Stowage Bank Supports <SBSUPP@oocl.com>; TPTLPO/OOCL Planning Office <TPTLPO@oocl.com> Subject: Fw: PCC1 OOCL BERLIN/OBN 061E I /B Packages for LBCT Stowage Bank Team, Please be advised that LBCT has confirmed they have not received the OOCL BERLIN 061E inbound BAPLIE in their system. Could you please investigate and advise on the status of the BAPLIE transmission to LBCT? If necessary, please retransmit and confirm once completed so that LBCT can verify receipt. Thank you for your assistance. Regards, Matthew Lyman Marine Manager, OOCL (USA) Inc. M: (562) 717-6152 E: matthew.lyman@oocl.com | W: www.oocl.com A: 111 W. Ocean Blvd., Suite 1700, Long Beach, CA 90802 From: Casey Cordray <casey.cordray@lbct.com> Sent: Monday, October 19, 2026 5:03 PM To: MATTHEW LYMAN (MGT-MAROPSAM-MOC-OOCLL/LGB) <matthew.lyman@oocl.com>; David Wang <david.wang@lbct.com>; Kyle Kakalia <kyle.kakalia@lbct.com>; Levi Strandberg <levi.strandberg@lbct.com>; William Brownell <william.brownell@lbct.com> Cc: Naveen Guggilapu <naveen.guggilapu@lbct.com> Subject: RE: PCC1 OOCL BERLIN/OBN 061E I /B Packages for LBCT CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. We have not received the Berlin yet Regards, Casey Cordray Associate Director Operations Long Beach Container Terminal 201 S Pico Ave, Long Beach CA 90802 Cell: (562) 522-3074 Direct: (562) 951-6181 From: matthew.lyman@oocl.com <matthew.lyman@oocl.com> Sent: Monday, October 19, 2026 11:32 AM To: Casey Cordray <casey.cordray@lbct.com>; David Wang <david.wang@lbct.com>; Kyle Kakalia <kyle.kakalia@lbct.com>; Levi Strandberg <levi.strandberg@lbct.com>; William Brownell <william.brownell@lbct.com> Subject: RE: PCC1 OOCL BERLIN/OBN 061E I /B Packages for LBCT EXTERNAL EMAIL: This email originated from outside of the LBCT organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Gents, Please verify you have received to your system Regards, Matthew Lyman Marine Manager, OOCL (USA) Inc. M: (562) 717-6152 E: matthew.lyman@oocl.com | W: www.oocl.com A: 111 W. Ocean Blvd., Suite 1700, Long Beach, CA 90802 From: CALVIN CAI (SHIPPLAN-SPSS-MOC-OOCLL/SHA) <calvin.cai@oocl.com> Sent: Sunday, October 18, 2026 5:36 PM To: Vessel Operations <vessel.operations@lbct.com> Cc: MARUSWC/Vessel Operation of USWC <MARUSWC@oocl.com>; TPTLPO/OOCL Planning Office <TPTLPO@oocl.com>; CALVIN CAI (SHIPPLAN-SPSS-MOC-OOCLL/SHA) <calvin.cai@oocl.com> Subject: PCC1 OOCL BERLIN/OBN 061E I /B Packages for LBCT Dear LBCT colleagues, Fyi. B/rgds /Calvin Cai Ship Planning Managment Tel: 86-21-25056894 H/P: 86-13816335113 Email: calvin.cai@oocl.com Disclaimer : This email and all contents are subject to the following disclaimer: http://emaildisclaimer.oocl.com/default.html IMPORTANT NOTICE: The substance of this message, including any attachments, is for the use of the intended recipient and may contain privileged and confidential information of LBCT LLC or its affiliates. If the reader of this message is not the intended recipient, or the employee or agent responsible to deliver it to the intended recipient, you are strictly prohibited from reviewing, forwarding, printing, copying, distributing or using this information in any way, and are hereby requested to contact the sender by reply email and destroy all copies of the original message.",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/20/2026 15:26:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:02:12,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/27/2026 07:02:12,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10384411,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: EEC - Vendor,In-Progress,,,MNL,PHILIPPINES,"Hi EDI Project team / EDI Support, Could you check the standard mapping logic currently applied for below indicated position? MATR / MARA / MABA I know TR, RA and BA means truck, rail and barge. Below Ilse seems saying MABA has no standard mapping handling. Thanks. Best Regards, Kelvin Chan T: +852 2233 8593 | IP Phone: 14548593 From: SVEN TROTNO (MGT-ITPI&PT-GPIT-ISD-OOCLL/BRE) <sven.trotno@oocl.com> Sent: Friday, October 23, 2026 9:16 PM To: ILSE VAN NYLEN (ITPI&PT-GPIT-ISD-OOCLL/ANR) <ilse.van.nylen@oocl.com>; OTTO VELDT (ITPI&PT-GPIT-ISD-OOCLL/RTM) <otto.veldt@oocl.com>; KELVIN CHAN (ITPI&PT-GPIT-ISD-OOCLL/HKG) <kelvin.chan@oocl.com> Subject: RE: EEC - Vendor Hi Ilse, It depends on the partner reporting barge events to OOCL. One terminal uses COARRI with a qualifier “8” which stands for “Inland Water Way”. In combination with the barge vendor code we can output MABA. TDT+20+070126+8++RSP:172:20+++FYNN:103::HYPERION' Another terminal provides TDT+1 with qualifier “2” in a CODECO message for the same purpose. TDT+1++2+25+:172:87+++50596:146' Best Regards Sven From: ILSE VAN NYLEN (ITPI&PT-GPIT-ISD-OOCLL/ANR) <ilse.van.nylen@oocl.com> Sent: Friday, October 23, 2026 3:08 PM To: SVEN TROTNO (MGT-ITPI&PT-GPIT-ISD-OOCLL/BRE) <sven.trotno@oocl.com>; OTTO VELDT (ITPI&PT-GPIT-ISD-OOCLL/RTM) <otto.veldt@oocl.com>; KELVIN CHAN (ITPI&PT-GPIT-ISD-OOCLL/HKG) <kelvin.chan@oocl.com> Subject: RE: EEC - Vendor Hello Kelvin, That is the whole point I’m trying to raise. Why do we process MATR and MARA automatically. But we need to mention MABA in each ERS MABA should also be processed automatically. Please check and advise. Hello Sven, Which qualifier in the TDT segment do your partners use for barge? Thank you Ilse From: SVEN TROTNO (MGT-ITPI&PT-GPIT-ISD-OOCLL/BRE) <sven.trotno@oocl.com> Sent: Tuesday, October 20, 2026 14:33 To: ILSE VAN NYLEN (ITPI&PT-GPIT-ISD-OOCLL/ANR) <ilse.van.nylen@oocl.com>; OTTO VELDT (ITPI&PT-GPIT-ISD-OOCLL/RTM) <otto.veldt@oocl.com>; KELVIN CHAN (ITPI&PT-GPIT-ISD-OOCLL/HKG) <kelvin.chan@oocl.com> Subject: RE: EEC - Vendor Yes, we do in ERS. Best Regards Sven From: ILSE VAN NYLEN (ITPI&PT-GPIT-ISD-OOCLL/ANR) <ilse.van.nylen@oocl.com> Sent: Tuesday, October 20, 2026 2:23 PM To: SVEN TROTNO (MGT-ITPI&PT-GPIT-ISD-OOCLL/BRE) <sven.trotno@oocl.com>; OTTO VELDT (ITPI&PT-GPIT-ISD-OOCLL/RTM) <otto.veldt@oocl.com>; KELVIN CHAN (ITPI&PT-GPIT-ISD-OOCLL/HKG) <kelvin.chan@oocl.com> Subject: RE: EEC - Vendor Hello Sven, Do you indicate it specific in your ERS barge should be processed at MABA ? Thank you Ilse From: SVEN TROTNO (MGT-ITPI&PT-GPIT-ISD-OOCLL/BRE) <sven.trotno@oocl.com> Sent: Tuesday, October 20, 2026 14:21 To: OTTO VELDT (ITPI&PT-GPIT-ISD-OOCLL/RTM) <otto.veldt@oocl.com>; ILSE VAN NYLEN (ITPI&PT-GPIT-ISD-OOCLL/ANR) <ilse.van.nylen@oocl.com>; KELVIN CHAN (ITPI&PT-GPIT-ISD-OOCLL/HKG) <kelvin.chan@oocl.com> Subject: RE: EEC - Vendor Hi Ilse, We output MABA for container events reported by German terminals. Best Regards Sven From: OTTO VELDT (ITPI&PT-GPIT-ISD-OOCLL/RTM) <otto.veldt@oocl.com> Sent: Tuesday, October 20, 2026 2:19 PM To: ILSE VAN NYLEN (ITPI&PT-GPIT-ISD-OOCLL/ANR) <ilse.van.nylen@oocl.com>; KELVIN CHAN (ITPI&PT-GPIT-ISD-OOCLL/HKG) <kelvin.chan@oocl.com> Cc: SVEN TROTNO (MGT-ITPI&PT-GPIT-ISD-OOCLL/BRE) <sven.trotno@oocl.com> Subject: RE: EEC - Vendor In the old day’s we used to code MABA for Barge From: ILSE VAN NYLEN (ITPI&PT-GPIT-ISD-OOCLL/ANR) <ilse.van.nylen@oocl.com> Sent: Tuesday, 20 October, 2026 12:42 PM To: KELVIN CHAN (ITPI&PT-GPIT-ISD-OOCLL/HKG) <kelvin.chan@oocl.com> Cc: SVEN TROTNO (MGT-ITPI&PT-GPIT-ISD-OOCLL/BRE) <sven.trotno@oocl.com>; OTTO VELDT (ITPI&PT-GPIT-ISD-OOCLL/RTM) <otto.veldt@oocl.com> Subject: EEC - Vendor Hello Kelvin, Could you please advise who can assist with below? Standard our logic in IRIS4 in EEC is If transport mode is truck we add MATR in field Vendor. If transport mode is rail we add MARA in field Vendor. Above is the standard setup. If the transport mode is barge, we leave field Vendor empty. Why do we standard process truck and rail but not barge? Can the standard",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/26/2026 17:33:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/26/2026 17:35:43,Email,,,,,,,End User,,ISDC,OPI,2026,10,44,,,
+SR-10384207,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),IND//loading EDI//URGENT!!!,In-Progress,,,MNL,PHILIPPINES,"Dear KOJA, Please send loading EDI, thanks! RGD - RIO GRANDE Dear @EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) Please check if we have ever received the loading EDI of below units fro mKOJA, thanks! BEAU557869-0 BEAU558742-8 BEAU559253-2 BEAU559348-3 BEAU565416-7 BEAU600574-8 BEAU602904-0 BEAU604573-5 BMOU162332-6 BMOU164710-1 BMOU516202-7 BSIU336685-5 BSIU843519-9 BSIU843908-6 BSIU942054-7 BSIU964157-4 CAAU802339-9 CAAU833355-8 CAAU911011-6 CAIU706612-5 CBHU438738-0 CBHU442825-7 CBHU448755-8 CBHU701452-2 CBHU703428-3 CBHU918563-2 CBHU919777-8 CBHU944065-6 CBHU957637-0 CCLU737782-6 CCLU744382-5 CCLU765016-5 CCLU770006-0 CCLU778764-6 CCLU786548-2 CCLU794045-7 CCLU794754-9 CSGU202363-9 CSGU202562-6 CSGU206045-8 CSGU207411-1 CSGU209840-6 CSGU221887-8 CSGU232169-6 CSGU250336-6 CSGU263108-0 CSGU269007-7 CSGU279732-1 CSGU281296-1 CSGU282037-6 CSGU282343-6 CSGU606020-3 CSGU606073-3 CSGU616161-5 CSGU619634-0 CSGU625364-5 CSGU628403-4 CSGU632522-0 CSGU643919-9 CSGU649771-8 CSGU654182-6 CSGU655681-0 CSGU657275-0 CSGU658521-2 CSGU662936-8 CSGU664324-2 CSGU664502-9 CSGU676858-0 CSGU681089-0 CSGU691131-9 CSGU693527-0 CSGU695213-3 CSGU695476-9 CSGU705348-8 CSGU705774-0 CSGU706680-2 CSGU717309-8 CSGU723993-4 CSGU724988-7 CSGU725722-3 CSGU737147-3 CSGU762512-0 CSGU774604-0 CSGU775715-2 CSGU777337-0 CSGU778452-2 CSGU801221-0 CSLU180412-0 CSLU203120-9 CSLU207238-4 CSLU243434-9 CSLU606121-7 CSLU606340-0 CSLU610169-1 CSLU619185-9 CSLU625825-3 CSLU631798-9 CSLU632250-0 CSNU102708-0 CSNU110186-5 CSNU117869-8 CSNU122408-9 CSNU124794-7 CSNU141261-4 CSNU155763-9 CSNU157648-0 CSNU161277-8 CSNU172936-3 CSNU172940-3 CSNU176099-1 CSNU176304-9 CSNU178699-6 CSNU179486-2 CSNU188178-2 CSNU188837-0 CSNU189122-4 CSNU189507-1 CSNU193411-5 CSNU193545-1 CSNU195353-7 CSNU196601-0 CSNU212936-3 CSNU215753-4 CSNU222546-0 CSNU227212-1 CSNU238421-9 CSNU240237-5 CSNU240417-2 CSNU242108-2 CSNU246499-4 CSNU250862-3 CSNU254560-6 CSNU257183-7 CSNU257561-6 CSNU265120-7 CSNU267956-5 CSNU283985-3 CSNU284946-6 CSNU295305-9 CSNU297992-1 CSNU299775-6 CSNU552675-0 CSNU552941-9 CSNU553728-7 CSNU555492-0 CSNU559272-5 CSNU564603-5 CSNU565506-3 CSNU569105-5 CSNU569955-0 CSNU574579-0 CSNU575264-9 CSNU587363-5 CSNU604760-1 CSNU622911-8 CSNU633375-5 CSNU634477-0 CSNU641919-1 CSNU643699-0 CSNU650415-9 CSNU654762-8 CSNU657653-9 CSNU671753-4 CSNU673107-0 CSNU685940-0 CSNU701304-1 CSNU701419-8 CSNU705039-0 CSNU705955-1 CSNU710930-7 CSNU728209-8 CSNU739879-2 CSNU741525-1 CSNU743428-8 CSNU743506-8 CSNU749027-6 CSNU751962-0 CSNU753301-7 CSNU759703-2 CSNU759785-5 CSNU760895-0 CSNU768741-3 CSNU769049-0 CSNU772618-7 CSNU779427-9 CSNU779855-1 CSNU781091-3 CSNU785915-3 CSNU802324-0 CSNU818832-1 CSNU819681-5 CSNU830327-7 CSNU831576-6 CSNU835212-1 CSNU843703-9 CSNU851146-0 CSNU852553-0 CSNU856539-0 CSNU860749-6 CSNU874788-3 CSNU889172-0 CSNU893419-0 CSNU895781-1 DFSU744877-3 EGSU915500-0 EISU942930-0 EITU111989-4 EITU118846-8 EITU130808-0 EITU136288-3 EITU170392-7 FBIU200530-8 FCIU533605-0 FCIU570980-6 FCIU583325-2 FCIU958588-0 FCIU961761-0 FCIU979602-8 FCIU984321-7 FCIU985283-6 FCIU994794-7 FFAU136017-5 FFAU228001-1 FFAU231793-3 FFAU240266-0 FFAU240927-0 FFAU248599-0 FFAU270424-9 FFAU280766-9 FFAU281122-6 FFAU281558-2 FFAU302328-1 FFAU302903-7 FFAU304775-0 FFAU309100-7 FFAU315584-2 FFAU321552-0 FFAU323839-8 FFAU332788-0 FFAU336833-9 FFAU339315-7 FFAU342898-9 FFAU344871-1 FFAU346168-9 FFAU354913-1 FFAU359245-7 FFAU359471-6 FFAU563329-9 FFAU588998-0 FFAU589307-0 FFAU604128-9 FFAU614423-0 FFAU625946-0 FFAU627531-1 FFAU637379-2 FFAU663496-2 FFAU702771-0 FFAU707429-2 FFAU707444-0 FFAU714383-4 FFAU714944-7 FFAU733273-5 FFAU782370-2 FFAU782450-3 FFAU786954-0 FFAU787572-7 FFAU788198-8 FFAU788661-3 FFAU793100-8 FFAU809506-8 FFAU827555-8 FFAU857177-6 FFAU857447-7 FFAU861948-4 FFAU861967-4 FFAU862276-5 FFAU865756-6 FFAU874658-1 FFAU875086-9 FFAU876169-4 FFAU876267-0 FFAU876489-9 FFAU876524-1 FFAU876745-5 FFAU876798-5 FFAU876822-0 FFAU877154-2 FFAU877172-7 FFAU877207-1 FFAU877494-2 FFAU877585-1 FFAU877657-0 FFAU877706-8 FFAU896410-9 FSCU813733-9 FSCU826571-0 FSCU858388-1 FSCU862560-5 FSCU874719-9 FSCU881721-2 F",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/26/2026 15:46:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/26/2026 15:52:37,Email,,,,,,,End User,,ISDC,OPI,2026,10,44,,,
+SR-10384161,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),JKT09//discharge EDI//URGENT!!!,In-Progress,,,MNL,PHILIPPINES,"Dear KOJA, Please send discharge EDI, thanks! RGD - RIO GRANDE Dear EDI Support Please check if we have ever received the discharge EDI of below containers from KOJA, thanks! JKT09 BEAU558054-7 2337326840 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 BMOU159697-7 2336643630 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 BMOU515701-5 2328351730 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CAIU695345-0 2337884581 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CCLU344250-1 2335813570 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CCLU743861-8 2335636560 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CCLU773348-6 2334891360 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CCLU775274-2 2334891360 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CCLU777107-0 2334891360 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSGU209216-2 2173418590 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSGU247553-6 2172370820 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSGU278910-0 2334582230 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSGU285385-2 2334582230 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSGU633276-5 2173527050 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSGU645367-0 2338010290 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSGU647644-3 2173527050 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSGU653556-7 4055259860 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSGU703947-4 2338010290 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSGU705770-8 4055259860 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSGU706023-4 2173527050 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSGU715498-7 2337326840 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSGU715586-0 2174651010 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSGU723028-5 2333061300 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSGU735832-1 2338641940 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSLU177819-1 2337884580 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSLU186779-2 2038832111 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSLU200917-0 2336707090 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSLU224881-1 2336707270 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSLU228362-2 2336706420 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSLU604727-1 2334891360 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSLU611783-0 2336204210 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSLU616998-4 2328351730 Confirmed Discharge TRUNK_LEG IB 40HQ ASA-RGD-045 N JKT09 CSNU109598-9 2337410780 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU113838-1 2038832111 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU127083-9 2336045050 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU135834-4 8882958330 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU139403-8 2334582230 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU144339-0 2336650990 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU148292-5 2337884580 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU148922-0 2336045050 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU158556-4 2172504310 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU161207-9 2339290990 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU178222-3 2038811200 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU180211-9 2336045050 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU180782-5 2336785070 Confirmed Discharge TRUNK_LEG TS 20GP ASA-RGD-045 N JKT09 CSNU192259-9 2336707090 Confirmed Discharge TRUNK_LEG IB 20GP ASA-RGD-045 N JKT09 CSNU196725-3 2336785070 Confirmed Discharge TRUNK_LEG TS 20GP ASA-RGD-045 N JKT09 CSNU197889-6 2335813570 Confirmed Discharge TRUNK_LEG IB 20GP",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/26/2026 15:19:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/26/2026 15:20:55,Email,,,,,,,End User,,ISDC,OPI,2026,10,44,,,
+SR-10383993,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),FW: OOCL Statement:RELIANCE INDUSTRIES LIMITED,In-Progress,,,MNL,PHILIPPINES,"Dear EDISupp Could you please help? Regards, Samson From: Rajesh.Kannaujiya@ril.com <Rajesh.Kannaujiya@ril.com> Sent: Monday, October 26, 2026 10:28 AM To: SAVIO DSOUZA (OB-DOC-CSV-OIPL/BBY) <savio.dsouza@oocl.com>; Vikram.Grover@ril.com; Pramod.Rane@ril.com; Sumeet.Wankhade@ril.com; SATISH SHETTY (FINCON-OIPL/BBY) <satish.shetty@oocl.com>; KUNAL SEN (M&S-OIPL/BBY) <kunal.sen@oocl.com> Cc: BBYOBDOC/OB DOC OIPL/BBY <BBYOBDOC@oocl.com>; BBYSAL/MUMBAI LINER SALES TEAM <BBYSAL@oocl.com>; BIMAL NEGI (MGT-M&S-OIPL/BBY) <bimal.negi@oocl.com>; GANESH BHAGWE (MGT-FINCON-OIPL/BBY) <ganesh.bhagwe@oocl.com>; HITESH REWANI (BKG-CSV-OIPL/MUN) <hitesh.rewani@oocl.com>; MAHESH SINGH (FINCON-OIPL/BBY) <mahesh.singh@oocl.com>; KUNAL SEN (M&S-OIPL/BBY) <kunal.sen@oocl.com>; TANAY KARNIK (M&S-OIPL/BBY) <tanay.karnik@oocl.com>; SAMSON JATHANNA (ITPI&PT-GPIT-ISD-OOCLL/BBY) <samson.jathanna@oocl.com> Subject: RE: OOCL Statement:RELIANCE INDUSTRIES LIMITED Importance: High CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Hello Savio, Please arrange to share the success folder screen shot to check internally with IT Regards, Rajesh Kannaujiya Reliance Industries Limited SCM Petchem Logistic Reliance Corporate Park, Building 8| B Wing | First Floor | WS 203 Ghansoli, Navi Mumbai - 400701, India Direct: +91 22 796 47468 Mobile: +91 8451947894 E-mail: rajesh.kannaujiya@ril.com From: savio.dsouza@oocl.com <savio.dsouza@oocl.com> Sent: 22/10/2026 17:05 To: Rajesh Kannaujiya <Rajesh.Kannaujiya@ril.com>; Vikram Grover <Vikram.Grover@ril.com>; Pramod Rane <Pramod.Rane@ril.com>; Sumeet Wankhade <Sumeet.Wankhade@ril.com>; satish.shetty@oocl.com; kunal.sen@oocl.com Cc: BBYOBDOC@oocl.com; BBYSAL@oocl.com; bimal.negi@oocl.com; ganesh.bhagwe@oocl.com; hitesh.rewani@oocl.com; mahesh.singh@oocl.com; kunal.sen@oocl.com; tanay.karnik@oocl.com; samson.jathanna@oocl.com Subject: [External]RE: OOCL Statement:RELIANCE INDUSTRIES LIMITED Caution: The e-mail below is from an external source. Please do not open attachments or click links unless this email comes from a known sender and you know the content is safe. Dear Customer, We have re-uploaded below invoices through EDI (FTP upload) Invoice Number BL Number Invoice Date Due Date Aging Days O/S Amt in Local Cur POL POD Status 445021513B 2336980179 01/09/2026 20/09/2026 12 18949.04 NHAVA SHEVA, INDIA SHANGHAI, CHINA Claim Pending 445021514B 2336980179 01/09/2026 20/09/2026 12 102249 NHAVA SHEVA, INDIA SHANGHAI, CHINA Claim Pending IMPORTANT NOTE SCMTR :- https://www.oocl.com/india/eng/localinformation/localnews/2025/Pages/Export-SCMTR-Implementation-Guidelines.aspx?site=india&lang=eng Savio Dsouza. OOCL (India) Pvt. Ltd. T: 022 66511176 M: 8657004740 E: savio.dsouza@oocl.com W: www.oocl.com A: ICC Chambers, 5th Floor, Saki Vihar Road, Powai, Mumbai 400072 IMPORTANT NOTE :- Payment Process- OOCL - Payment Procedures As per SCMT requirement, below details are mandatory in the Shipping Instructions Any detail missing will delay the 1st B/L Draft • Shipping instructions (SI) should be submitted 72 hours prior to arrival of the vessel at the load port in India and B/L correction should be done before vessel sailing. • PAN No. - If Shipper is NVO then PAN number is Mandatory • IEC No. - If Shipper is BCO the IEC number is mandatory • 6 digits HS code is required PER ITEM/ COMMODITY. ( For example, if a container has 6 different commodity then 6 cargo items are to be created and reported to Customs.) • CBM - CBM is mandatory as per the container number From: Rajesh.Kannaujiya@ril.com <Rajesh.Kannaujiya@ril.com> Sent: Monday, October 5, 2026 10:28 AM To: SATISH SHETTY (FINCON-OIPL/BBY) <satish.shetty@oocl.com>; SAVIO DSOUZA (OB-DOC-CSV-OIPL/BBY) <savio.dsouza@oocl.com>; KUNAL SEN (M&S-OIPL/BBY) <kunal.sen@oocl.com> Cc: BBYOBDOC/OB DOC OIPL/BBY <BBYOBDOC@oocl.com>; BBYSAL/MUMBAI LINER SALES TEAM <BBYSAL@oocl.com>; BIMAL NEGI (MGT-M&S-OIPL/BBY) <bimal.negi@oocl.com>; GANESH BHAGWE (MGT-FINCON-OIPL/BBY) <ganesh.bhag",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/26/2026 13:31:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/26/2026 13:34:24,Email,,,,,,,End User,,ISDC,OPI,2026,10,44,,,
+SR-10382722,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-23 12:13:32 PM Booking Numbers: 2340250710 2340251290 2340253130 2341324750 2341324751 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/23/2026 13:49:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/23/2026 14:31:44,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/23/2026 14:31:43,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10381665,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),FW: Container Dishcharge Movement at KHH06-- SPIL NIRMALA 114E BL:OOLU2340863000 櫃號:TRHU6651061,In-Progress,,,MNL,PHILIPPINES,"Dear Team, The vendor advised that they sent the EDI yesterday and resent it this morning, but there is still no discharge event in our system. Please help check why we failed to receive/process the attached EDI files. Thanks. Regards, Kelly Xu Equipment Data Center Dual Brand Equipment Management Center T: 86-2363322169 From: 陳松民 <smc.lienhai@lh42w.com.tw> Sent: Thursday, October 22, 2026 12:43 PM To: OOCLEDCAP1/OOCL EDC - AP Region 1 <OOCLEDCAP1@oocl.com>; gate.lienhai@lh42w.com.tw; yeongan@ms27.hinet.net Cc: Y L SHEN (IB-DOC-CSV-OTWL/KHH) <y.l.shen@oocltw.com>; IBDOCTWN/KHH IB CSV Team <ibdoctwn@oocltw.com> Subject: Re: Container Dishcharge Movement at KHH06-- SPIL NIRMALA 114E BL:OOLU2340863000 櫃號:TRHU6651061 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Dear Sir, 附上檔案 OOCLEDCAP1@oocl.com 於 2026/10/22 上午 11:55 寫道: Dear Team, 没有收到呢，我司现在都还没有这些柜子的卸船动态，请帮忙检查一下EDI是否有误，或者可以提供一下它们的EDI文档吗，我请我司IT也帮忙检查下，谢谢！ Regards, Kelly Xu Equipment Data Center Dual Brand Equipment Management Center T: 86-2363322169 From: 陳松民 <smc.lienhai@lh42w.com.tw> Sent: Thursday, October 22, 2026 11:10 AM To: OOCLEDCAP1/OOCL EDC - AP Region 1 <OOCLEDCAP1@oocl.com>; gate.lienhai@lh42w.com.tw; yeongan@ms27.hinet.net Cc: Y L SHEN (IB-DOC-CSV-OTWL/KHH) <y.l.shen@oocltw.com>; IBDOCTWN/KHH IB CSV Team <ibdoctwn@oocltw.com> Subject: Re: Container Dishcharge Movement at KHH06-- SPIL NIRMALA 114E BL:OOLU2340863000 櫃號:TRHU6651061 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Dear Sir, 我們昨天有傳送，剛剛有重新傳送，麻煩請再Check OOCLEDCAP1@oocl.com 於 2026/10/22 上午 10:25 寫道: Dear Team, Please kindly check and send discharge EDI for below cntrs, thanks. Container Number TCNU6871416 OOLU6995960 UETU5360866 TRHU6651061 TEMU0165367 CSNU1979167 CSNU2129569 OOCU0562992 DRYU2942421 OOLU0394869 FTAU1403510 OOLU0643302 TCLU7606847 OOLU0592669 CSNU1532646 CSGU2053572 TRHU3484675 FCIU5759854 OOCU0827237 UETU2506920 CSNU2561079 BMOU1632781 OOCU0831319 BMOU1633237 CSNU1962734 TEMU3833428 OOCU1068095 OOCU7822371 FFAU3562426 CSGU7195482 OOCU6139191 CSNU5798064 FFAU3326246 MAGU5646997 FFAU8091680 OOCU9309970 OOCU5773318 CSNU8311863 BEAU5588044 CSGU6078060 OOCU5032151 CSNU8615146 OOCU8595502 Regards, Kelly Xu Equipment Data Center Dual Brand Equipment Management Center T: 86-2363322169 From: IBDOCTWN/KHH IB CSV Team <ibdoctwn@oocltw.com> Sent: Thursday, October 22, 2026 10:21 AM To: OOCLEDCAP1/OOCL EDC - AP Region 1 <OOCLEDCAP1@oocl.com> Cc: 日昌行報關 #105 <zoochain-i@hibox.hinet.net>; Y L SHEN (IB-DOC-CSV-OTWL/KHH) <y.l.shen@oocltw.com> Subject: Container Dishcharge Movement at KHH06-- SPIL NIRMALA 114E BL:OOLU2340863000 櫃號:TRHU6651061 Dear Team, Vessel SPIL NIRMALA 114E All import containers were discharged at KHH06. Please assist in updating the container discharge status accordingly. Thank you. B/L Number Container Number Container Status 2339386810 TCNU6871416 Loaded 2339386810 OOLU6995960 Loaded 2340292060 UETU5360866 Loaded 2340863000 TRHU6651061 Loaded 2341014130 TEMU0165367 Loaded 2341014130 CSNU1979167 Loaded 2341014130 CSNU2129569 Loaded 2341014130 OOCU0562992 Loaded 2341014130 DRYU2942421 Loaded 2341014130 OOLU0394869 Loaded 2341014130 FTAU1403510 Loaded 2341014130 OOLU0643302 Loaded 2341014130 TCLU7606847 Loaded 2341014130 OOLU0592669 Loaded 2341014130 CSNU1532646 Loaded 2341014130 CSGU2053572 Loaded 2341014130 TRHU3484675 Loaded 2341014130 FCIU5759854 Loaded 2341252250 OOCU0827237 Loaded 2341252250 UETU2506920 Loaded 2341252250 CSNU2561079 Loaded 2341252250 BMOU1632781 Loaded 2341252250 OOCU0831319 Loaded 2341252250 BMOU1633237 Loaded 2341252250 CSNU1962734 Loaded 2341252250 TEMU3833428 Loaded 2341252250 OOCU1068095 Loaded 2341252250 OOCU7822371 Loaded 2341252250 FFAU3562426 Loaded 2341252250 CSGU7195482 Loaded 2341252250 OOCU6139191 Loaded 2341252250 CSNU5798064 Loaded 2341252250 FFAU3326246 Loaded 2341252250 MAGU5646997 Loaded 2341252250 FFAU8091680 Loaded 2",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/22/2026 13:55:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/22/2026 13:56:55,Email,,,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10380916,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),NAS06,In-Progress,,,MNL,PHILIPPINES,"Dears Pls check if any problem as system unable receive attachment EDI .tks Thanks and best regards, Elsie Huang 华南区域双品牌箱管中心/ Huanan Regional Equipment Management Center（HUA REMC) 地址：深圳市福田区福华三路168号深圳国际商会中心52楼 Addresss:52F，Shenzhen International Chamber of Commerce Tower，NO.168, Fuhua 3 Road, Futian District ,Shenzhen Email: elsie.huang@oocl.com Tel: 86-755-26839208",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/21/2026 16:22:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/21/2026 16:22:39,Email,,,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10380755,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),BNSF waybill error ,In-Progress,,,SHA,CHINA-NORTH,"EDISUPP, pls assist on blw BNSF waybill error. Thanks.
+
+
+
+Error Msg:CUSTOMER NAME IS REQUIRED (AO CUSTOMER)ERRORS IN WAYBILL
+
+2337118340	OOLU098696",,,,,MICHAEL LI (OSC-OPS-NAGC/SHA),10/21/2026 14:39:02,MICHAEL LI (OSC-OPS-NAGC/SHA),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/21/2026 15:53:16,Web Portal,,,,,,,End User,,OPS,OUI,2026,10,43,,,
+SR-10379860,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),HRRJK - CODECO,Closed,General Inquiry,Files uploaded,ANR,BELGIUM,"Hello all,
+
+
+
+could you please process attached CODECO messages?
+
+
+
+thank you
+
+Ilse",,,,,ILSE VAN NYLEN (ITPI&PT-GPIT-ISD-OOCLL/ANR),10/20/2026 15:51:02,ILSE VAN NYLEN (ITPI&PT-GPIT-ISD-OOCLL/ANR),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/21/2026 09:33:10,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/21/2026 09:33:09,,,,,End User,,ISD,OOCLL,2026,10,43,,,
+SR-10376105,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),Request for DG Cargo - EDI file - PNW5-XYK-269 S - ETA POD OCT22(ALE),Closed,General Inquiry,Provided requested file,VAN,CANADA,"Good day, 
+Pls provide EDI DG file for below vessel, (EOV declared OCT/13) , file in .txt
+Thanks.
+
+ 
+
+PNW5-XYK-269 S  ETA POD VAN09 OCT 22   
+5 DG units
+
+
+
+
+
+
+
+
+B/L Number
+
+
+
+Container Number
+
+
+
+Container Size/Type
+
+
+
+
+
+2173810530
+
+
+
+OOLU9299076
+
+
+
+40HQ
+
+
+
+
+
+2174049800
+
+
+
+UETU6462707
+
+
+
+40HQ
+
+
+
+
+
+2174190120
+
+
+
+TIIU7785883
+
+
+
+40HQ
+
+
+
+
+
+2335850390
+
+
+
+TCLU7081445
+
+
+
+40OT
+
+
+
+
+
+2335850390
+
+
+
+OOLU4211550
+
+
+
+40OT",,,,,ALICE LEUNG (IB-CSV-OCI/VAN),10/15/2026 10:10:23,ALICE LEUNG (IB-CSV-OCI/VAN),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/21/2026 09:06:39,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/21/2026 09:06:38,,,,,End User,,CSV,OCI,2026,10,42,,,
+SR-10379607,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-20 12:31:25 PM Booking Numbers: 2340194080 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/20/2026 12:45:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/20/2026 12:47:42,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/20/2026 12:47:42,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10379605,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-20 12:17:05 PM Booking Numbers: 2332853810 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/20/2026 12:43:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/20/2026 12:47:31,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/20/2026 12:47:31,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10378815,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),"RE: FRLEHGMP / CA_COARRI / Segment EQD/DGS occurrences exceeds maximum requires (9), data occurrences (",Closed,General Inquiry,File upload,MNL,PHILIPPINES,"Hello all, I’ve updated the COARRI message manually. Could you please process attached file? Thank you Ilse From: EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) <EDISUPP@oocl.com> Sent: Monday, October 19, 2026 03:57 To: ILSE VAN NYLEN (ITPI&PT-GPIT-ISD-OOCLL/ANR) <ilse.van.nylen@oocl.com> Cc: EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) <EDISUPP@oocl.com>; OPIEDISP/OPI EDISUPP Team <OPIEDISP@oocl.com> Subject: FRLEHGMP / CA_COARRI / Segment EQD/DGS occurrences exceeds maximum requires (9), data occurrences ( Dear Ilse, Please help to contact FRLEHGMP and inform them for the below error found on a CA_COARRI EDI file, thank you. DETAIL: 1 EDI file failed to process MESSAGE TYPE: CA_COARRI 1. MESSAGE ID: EDI2026101809002023-72 ORIGINAL FILE NAME: 1792314001681dar_coarri_l_tdf.edi (INTERCHANGE CONTROL# 338958891) ERROR DESCRIPTION: 1. Segment EQD/DGS occurrences exceeds maximum requires (9), data occurrences (10) INVALID DATA SAMPLE: 1. Line 52: DGS+IMD+3+1090 Thanks and regards, OOCL EDI Support",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/19/2026 15:48:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 15:51:37,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 15:51:36,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10378798,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-19 03:26:32 PM Booking Numbers: 2174865640 2174973210 2174864890 2340488090 2340274370 2174973390 2341715300 2341430630 2340262420 2340262190 2340487830 2337973340 2333652390 2340665530 2174865430 2340797770 2338142630 2341130980 2342026990 2175485320 2340262010 2341188920 2341431120 2341431480 2341429660 2336979920 2341430170 2340262160 2335773970 2175066770 2338915570 2341929230 2333138540 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/19/2026 15:41:33,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 15:45:26,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 15:45:25,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10378805,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/NMB/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: NMB/IFTMBC Timestamp: 2026-10-19 03:31:14 PM Booking Numbers: 2341419990 2341783050 2342034160 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/19/2026 15:43:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 15:45:19,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 15:45:19,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10378683,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-19 02:22:10 PM Booking Numbers: 2174863960 2336589650 2341826820 2175165590 2174862680 2340598070 2174862360 2341826450 2174862300 2341411030 2039101350 2339890450 2039101770 2175340760 2340687610 2340172460 2336589750 2341105640 2340172290 2341690120 2175312340 2174990990 2340601020 2342081050 2175312270 2341491950 2340928580 2341397150 2340482680 2342017900 2175043920 2341428300 2340784070 2341879800 2340481820 2340148380 2175391820 2340481190 2341223730 2340676670 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/19/2026 14:24:34,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 14:29:30,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 14:29:29,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10378662,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/NMB/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: NMB/IFTMBC Timestamp: 2026-10-19 01:32:27 PM Booking Numbers: 2340827020 2174985560 2339811330 2340827650 2174167350 2340774290 2174609740 2340868781 2340868780 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/19/2026 14:05:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 14:29:21,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 14:29:20,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10378661,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-19 01:35:48 PM Booking Numbers: 2039170840 2341999130 2342039210 2341637020 2341971640 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/19/2026 14:05:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 14:29:13,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 14:29:12,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10378660,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-19 01:39:06 PM Booking Numbers: 2174863960 2336589650 2341826820 2175165590 2174862680 2340598070 2174862360 2341826450 2174862300 2341411030 2039101350 2339890450 2039101770 2175340760 2340687610 2340172460 2336589750 2341105640 2340172290 2341690120 2175312340 2174990990 2340601020 2342081050 2175312270 2341491950 2340928580 2341397150 2340482680 2342017900 2175043920 2341428300 2340784070 2341879800 2340481820 2340148380 2175391820 2340481190 2341223730 2340676670 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/19/2026 14:05:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 14:29:04,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 14:29:04,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10378659,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/NMB/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: NMB/IFTMBC Timestamp: 2026-10-19 01:41:17 PM Booking Numbers: 2342046730 2342119100 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/19/2026 14:05:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 14:28:56,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/19/2026 14:28:56,,,,,End User,,ISDC,OPI,2026,10,43,,,
+SR-10377155,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: customs clearance location for intra-Canada shipments,Closed,General Inquiry,"Coordinated with SPSSUPP to check if mentioned B/Ls were triggered, ongoing coordination via email",MNL,PHILIPPINES,"@EDISUPP/MNL EDI Support (ISD-OOCLL/MNL)Hi EDISUPP, Please provide the EDI 404 rail billing that we submit to CN Rail. Thanks. Hellen Zhu Operation Support Center, OOCL (USA) Inc. T: +86(21)25056039 | IP: 17426039 E: hellen.zhu@oocl.com | W: www.oocl.com From: HELLEN ZHU (OSC-OPS-NAGC/SHA) Sent: Friday, October 16, 2026 9:11 To: SYLVIA Z F LIU (DSCPSC-LOBPO-ISD-OOCLL/ZHA) <sylvia.z.f.liu@oocl.com>; SPSSUPP/SPS App Support <spssupp@oocl.com>; EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) <EDISUPP@oocl.com> Subject: customs clearance location for intra-Canada shipments Hello Sylvia, Pls confirm whether we have included Customs clearance location for intra-Canada shipments. CN insists that rail billing submitted with customs clearance location, but after checking the rail route configuration, it shows blank. BL CNTR 2325670900 OOCU7096957 2325670770;2325670950 OOCU5995110;OOCU8669375;TGBU4081670 Please refer to CN’s comments The rejection from CBSA was what determined OOCL has a discrepancy between what was on OOCL arrival notice submitted to CBSA and what CN was reporting for where the cargo arrived. When reviewing the below, the cargo appears to be have been cleared at the port (Prince Rupert), why did OOCL bill this to clear at Montreal if this was not the case, CN had to manually update the billing to indicate this clearing at the port as a result of this discrepancy. OOCL EDI did not reflect cleared at the port causing the error/delay in this shipment. Hellen Zhu Operation Support Center, OOCL (USA) Inc. T: +86(21)25056039 | IP: 17426039 E: hellen.zhu@oocl.com | W: www.oocl.com",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/16/2026 11:07:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/16/2026 16:55:56,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/16/2026 16:55:56,,,,,End User,,ISDC,OPI,2026,10,42,,,
+SR-10373994,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),VEA ERROR ISSUE,Closed,General Inquiry,"Asked user to try following provided solutions, confirmed that all is now in order",PKG,MALAYSIA,"Hi EDISUPP team,
+
+ 
+
+Help needed to check if any issue with VEA : Support Related Inquiry.
+
+I am facing error as below starting today. Appreciate your revert.
+
+
+
+",,,,,NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG),10/13/2026 08:51:03,NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/15/2026 10:56:02,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/15/2026 10:56:01,,,,,End User,,OPS,OMSB,2026,10,42,,,
+SR-10375296,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: URGENT: EDI SFTP Migration on 12 October 2026 - Action Required - OOCL,Closed,General Inquiry,Whitelisted partner's IP address and was now able to connect to their server,MNL,PHILIPPINES,"Hi JPB, Any change in the EDI setup needs to be communicated with at least a few days of preparation/testing time for us to update. Please advise the credentials including the login/password and directory to be used/setup. Regards, Michael From: Nadiatul Afifah Mohd Amirul Krishnan <nadiatul.afifah@johorport.com.my> Sent: Friday, October 9, 2026 4:51 PM To: kua.jkrishnan@cma-cgm.com; kua.vpatil@cma-cgm.com; aditi.g@econshipping.com; cr.malaysia@econshipping.com; viraj.v@econshipping.com; vikram@econshipping.com; edisupport@emiratesline.com; logistic_pgu@qel.com.my; operations.mypgu@my.emiratesline.com; farina@qel.com.my; ASETDI@hlag.com; MuhammadIzzatBin.Ibrahim@hlag.com; MALAYSIA@service.hlag.com; sklhl@hmm21.com; mksai@hmm21.com; mkzaw@hmm21.com; mkhcm@hmm21.com; org.hmm-sg-01080000@hmm21.com; org.hmm-my-04047000@hmm21.com; ZUKERI MOHD YUSOF (MARINE-OPS-OMSB/PGU) <zukeri.mohd.yusof@oocl.com>; MICHAEL WAN (ITPI&PT-GPIT-ISD-OOCLL/SIN) <michael.wan@oocl.com>; ZULKMAL IRWAN SANTAN (IB-CSV-OMSB/PGU) <zulkmal.irwan.santan@oocl.com>; ERIC HO (MGT-OMSB/PGU) <eric.ho@oocl.com>; OPIEDISP/OPI EDISUPP Team <OPIEDISP@oocl.com>; EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) <EDISUPP@oocl.com>; santhosh.raj1@maersk.com; raja.perumal@maersk.com; taikien.foong@msc.com; ahmad.faiz@msc.com; mathailan@mttshipping.com.my; mtthqmis@mttshipping.com.my; jegatisan@mttshipping.com.my; wannorzaiton@mttshipping.com.my; limsc@mttshipping.com.my; sas.edi.support@one-line.com; HELPDESK <helpdesk@johorport.com.my>; jiacheng.lai@one-line.com; saghai.christie@one-line.com; ashok.rajamoney@one-line.com; zulkifli.ahmad@one-line.com; faizul.yusuf@one-line.com; ikram.sariff@one-line.com; mohammadluqman.radzai@one-line.com; faizal.hamzah@my.pilship.com; kaliswari.velusamy@ovr.pilship.com; ys.chan@pgu.pilship.com; marcustang@sitc.com; zainal@sitc.com; PGU_MYS@sitc.com; lizhenhua@sitc.com; isteam@sinokor.co.kr; ar@sinokor.co.kr; ridhwan@sinokormy.com.my; jwpark@sinokor.co.kr; nanthapandi.ramasamy@swiredigital.com; krystle.chiang@swireshipping.com; arun.s@swiredigital.com; eric_tee@tslines.com.my; yang_lim@tslines.com.my Cc: Vimal Kumar Selvabalakrishnan <vimal.kumar@johorport.com.my>; Omar Othman <omar@johorport.com.my>; Salehuddin Kamsuri <saleh@johorport.com.my>; Faruzaini Ahmad Shahroh <faruzaini@johorport.com.my>; Md Kamil Md Rafi <mdkamil@johorport.com.my>; Juhaimi Hashim <juhaimi@johorport.com.my> Subject: URGENT: EDI SFTP Migration on 12 October 2026 - Action Required CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Dear Valued Customers, Johor Port will migrate its EDI SFTP service to a new server on Monday, 12 October 2026 at 12:00 PM (Malaysia Time). To prevent disruption, customers must update and test their system configurations before the migration. New EDI SFTP Server Details Hostname: cedftp.johorport.com.my Port: 422 Immediate Actions Required Please complete the following before the migration: Update your SFTP connection settings to use the new hostname and port. Perform connectivity testing with the new EDI SFTP server. Verify that EDI files can be successfully transmitted and retrieved. Be ready to switch to the new server on 12 October 2026 at 12:00 PM (Malaysia Time). Important: Failure to update and test your configuration may disrupt EDI file transmission and retrieval after the migration. Purpose of the Migration The migration will improve EDI data exchange reliability and address file transmission and retrieval issues affecting CODECO, COARRI (outbound), and COPARN (inbound). Technical Assistance For clarification, testing, configuration guidance, or technical assistance, please contact: En. Faruzaini Ahmad Shahroh at 019-726 0878 Thank you for your cooperation and continued support. Regards,",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/14/2026 11:38:35,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/15/2026 10:38:17,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/15/2026 10:38:16,,,,,End User,,ISDC,OPI,2026,10,42,,,
+SR-10372909,3,IRIS-4 | BKG,IRIS-4 | BKG,Booking not amended at Port 2340717780   ,Closed,Business Issue,"ok to close this case as have received a waiver from Port for the Port storage because they missed a manual check later in the process.
+
+So even if EDI had failed to update the Port system the container number was in our final loading list and should have been picked up from there by port planners.",AKL,NEW ZEALAND,"HI
+
+
+
+can you please check why booking didn't get updated to new vessel on OCT 2 
+
+Port said they received for NAVIOS MIAMI 202N 
+
+but didn't get EDI for later amendment to CMA CGM OUVEA 812 on the same day 
+
+
+
+",,,,,JUDITH JAYASINGHE (CSV-ONZL/AKL),10/12/2026 09:34:16,JUDITH JAYASINGHE (CSV-ONZL/AKL),OOCL,Issue/Incident,Usage,EASC,RIZZA ERIKA BALMEO (EASC-GPIT-ISD-OOCLL/MNL),"GEDI,EASC","CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),RIZZA ERIKA BALMEO (EASC-GPIT-ISD-OOCLL/MNL)",EASC,RANIEL SEGUERRA (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/15/2026 06:15:59,Web Portal,RANIEL SEGUERRA (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/15/2026 06:15:58,,,,,End User,,CSV,ONZL,2026,10,42,,,
+SR-10374637,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RESEND BKG EDI: <<CSS3-OSV-476 S>>: GOCT-OOCL NSBOOKING回执信息订阅邮件,Closed,General Inquiry,Resent mentioned bookings,MNL,PHILIPPINES,"Hi Edi Team, As attached list, please kindly assist to re-send bkg EDI under to partner: GOCT, thank you Momo Zhang Customer Service Dept., OOCL (China) Co., Ltd Guangzhou Branch T: 86-20-38155168 E: guartfc@oocl.com | W: www.oocl.com A: 16th Floor, Guangzhou International Shipping Tower, No. 8 Yuanhai Street, Haizhu District, Guangzhou, Guangdong, China 如果您有任何关于FreightSmart的疑问或者建议， 欢迎随时联系我们的智能客服 - 小飞 您可以通过以下链接反馈您的宝贵建议 From: PATRICK T M CHAN (PORT-OPS-OHKB/HKG) <patrick.t.m.chan@oocl.com> Sent: Tuesday, October 13, 2026 1:28 PM To: GUARTFC/Guangzhou Sub-Regional Traffic of OHKL <GUARTFC@oocl.com>; MARSHZ/VESSEL OPERATION OF SHENZHEN <MARSHZ@OOCL.COM> Cc: edi_service@szedi.com.cn; CISALERT/Corp EDI Alert List <CISALERT@oocl.com>; ANGEL HUANG (CSV-OHKB/GUA) <angel.huang@oocl.com>; INFINITY ZHU (CSV-OHKB/GUA) <infinity.zhu@oocl.com>; IRENE ZHENG (CSV-OHKB/GUA) <irene.zheng@oocl.com>; JACKY LIANG (CSV-OHKB/GUA) <jacky.liang@oocl.com>; LORRAINE LUO (CSV-OHKB/GUA) <lorraine.luo@oocl.com>; MOMO ZHANG (CSV-OHKB/GUA) <momo.zhang@oocl.com>; NICOLE SITU (CSV-OHKB/GUA) <nicole.situ@oocl.com>; SUSAN S X ZHANG (CSV-OHKB/GUA) <susan.s.x.zhang@oocl.com>; WATER LIN (CSV-OHKB/GUA) <water.lin@oocl.com>; YUKO LIANG (CSV-OHKB/GUA) <yuko.liang@oocl.com> Subject: RE: GOCT-OOCL NSBOOKING回执信息订阅邮件 Dear Nicole, GOCT has updated, please resent all booking. Thanks. Best Regards Patrick T.M. Chan OOCL Hong Kong Branch Tel : - 852-25066825 IP : 14546825 Email : Patrick.t.m.chan@oocl.com marshz@oocl.com From: GUARTFC/Guangzhou Sub-Regional Traffic of OHKL <GUARTFC@oocl.com> Sent: Monday, October 12, 2026 4:25 PM To: PATRICK T M CHAN (PORT-OPS-OHKB/HKG) <patrick.t.m.chan@oocl.com>; MARSHZ/VESSEL OPERATION OF SHENZHEN <MARSHZ@OOCL.COM> Cc: edi_service@szedi.com.cn; CISALERT/Corp EDI Alert List <CISALERT@oocl.com>; PATRICK T M CHAN (PORT-OPS-OHKB/HKG) <patrick.t.m.chan@oocl.com>; ANGEL HUANG (CSV-OHKB/GUA) <angel.huang@oocl.com>; INFINITY ZHU (CSV-OHKB/GUA) <infinity.zhu@oocl.com>; IRENE ZHENG (CSV-OHKB/GUA) <irene.zheng@oocl.com>; JACKY LIANG (CSV-OHKB/GUA) <jacky.liang@oocl.com>; LORRAINE LUO (CSV-OHKB/GUA) <lorraine.luo@oocl.com>; MOMO ZHANG (CSV-OHKB/GUA) <momo.zhang@oocl.com>; NICOLE SITU (CSV-OHKB/GUA) <nicole.situ@oocl.com>; SUSAN S X ZHANG (CSV-OHKB/GUA) <susan.s.x.zhang@oocl.com>; WATER LIN (CSV-OHKB/GUA) <water.lin@oocl.com>; YUKO LIANG (CSV-OHKB/GUA) <yuko.liang@oocl.com> Subject: RE: GOCT-OOCL NSBOOKING回执信息订阅邮件 Dear Patrick Pls kindly assist below voyage 476S not found with the SVVD CSS3-OSV-476 S. Tks!! OOCL NS OOCL NOCT2 GOCT 4055342550 OOCL SAVANNAH 476S 失败 line Voyage [476S] is not found. 2026-10-12 15:01:00 2026-10-12 15:05:08 Nicole Situ Customer Service Dept., OOCL (China) Co., Ltd Guangzhou Branch T: 86-20-38155168 E: nicole.situ@oocl.com | W: www.oocl.com A: 16th Floor, Guangzhou International Shipping Tower, No. 8 Yuanhai Street, Haizhu District, Guangzhou, Guangdong, China 如果您有任何关于FreightSmart的疑问或者建议， 欢迎随时联系我们的智能客服 - 小飞 From: edi_service@szedi.com.cn <edi_service@szedi.com.cn> Sent: Monday, October 12, 2026 4:03 PM To: GUARTFC/Guangzhou Sub-Regional Traffic of OHKL <GUARTFC@oocl.com>; CISALERT/Corp EDI Alert List <CISALERT@oocl.com>; PATRICK T M CHAN (PORT-OPS-OHKB/HKG) <patrick.t.m.chan@oocl.com>; w.c.chiu@oocl.com; dicky.kwok@oocl.com Subject: GOCT-OOCL NSBOOKING回执信息订阅邮件 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. 船公司 船公司名称 堆场 堆场名称 BOOKING NO 船名 航次 ETD 回执结果 回执内容 回执时间 入库时间 OOCL NS OOCL NOCT2 GOCT 2339029510 CSPC CRYSTAL 008W 失败 Voyage 5LPM8/008W was departed. 2026-10-12 15:02:00 2026-10-12 15:05:09 OOCL NS OOCL NOCT2 GOCT 4055342550 OOCL SAVANNAH 476S 失败 line Voyage [476S] is not found. 2026-10-12 15:01:00 2026-10-12 15:05:08 OOCL NS OOCL NOCT2 GOCT 2039057016 OOCL SAVANNAH 476S 失败 line Voyage [476S] is not found. 2026-10-12 12:23:00 2026-10-12 12:27:07 OOCL NS OOCL NOCT2 GOCT 2337614502 OOCL SAVANNAH 476S 失败 line Voyage [476S] is not found. 2026-10-12 12:23:00 2026-10-12 12:27:07",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/13/2026 16:33:33,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/14/2026 08:20:00,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/14/2026 08:19:59,,,,,End User,,ISDC,OPI,2026,10,42,,,
+SR-10373477,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/NMB/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: NMB/IFTMBC Timestamp: 2026-10-12 03:50:12 PM Booking Numbers: 2340448650 2340373860 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/12/2026 16:38:34,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/12/2026 16:44:32,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/12/2026 16:44:31,,,,,End User,,ISDC,OPI,2026,10,42,,,
+SR-10373474,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-12 03:09:36 PM Booking Numbers: 2338998700 2174947230 2341097040 2341218670 2340813420 2341392930 2341321670 2341397170 2340692920 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/12/2026 16:36:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/12/2026 16:44:11,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/12/2026 16:44:09,,,,,End User,,ISDC,OPI,2026,10,42,,,
+SR-10373471,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-12 02:03:40 PM Booking Numbers: 2340682040 2340094310 2339415240 2339448910 2339414390 2339712570 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/12/2026 16:35:34,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/12/2026 16:43:56,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/12/2026 16:43:54,,,,,End User,,ISDC,OPI,2026,10,42,,,
+SR-10370287,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),BNSF waybill error,Closed,General Inquiry,File amended and resent,SHA,CHINA-NORTH,"EDISUPP, pls assist on blw BNSF waybill error. Thanks.
+
+
+
+Error Msg:CUSTOMER NAME IS REQUIRED (AO CUSTOMER)ERRORS IN WAYBILL
+
+2335928070	OOCU821820",,,,,MICHAEL LI (OSC-OPS-NAGC/SHA),10/09/2026 15:15:58,MICHAEL LI (OSC-OPS-NAGC/SHA),OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/09/2026 17:35:42,Web Portal,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/09/2026 17:35:41,,,,,End User,,OPS,OUI,2026,10,41,,,
+SR-10370169,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),FTP Logon Failure (OOCLIN),Closed,General Inquiry,Informed that transmission setup was migrated to Bifrost,MNL,PHILIPPINES,"CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Hello OOCL Team, Kleinschmidt is currently unable to connect to your FTP address edib2b.oocl.com mapped to 146.222.7.58 at account allpftp due to our logs indicating the user is disabled. Is this account still needed with Kleinschmidt or is there a networking issue affecting login? Please review & advise. Below is an excerpt of the issue from our log. 23:20:11 $EVOO CHECKED IN 23:20:11 $EVOO Config - EVEOOCL 23:20:11 $EVOO edib2b.oocl.com mapped to 146.222.7.58 by 8.8.8.8 23:20:12 $EVOO SESS^START: Open SUM^FNUM C=8 23:20:12 $EVOO SESS^START: Open XFER^FNUM C=0 23:20:12 $EVOO SESSION START - 186943734 23:20:13 $EVOO PASSWORD Rejected allpftp 23:20:13 $EVOO 530 User [allpftp] account disabled or FTP disabled for this user. 23:20:13 $EVOO $EVOO FTP Logon Failure OOCLIN allpftp 23:21:13 $EVOO edib2b.oocl.com mapped to 146.222.7.58 by 1.1.1.1 23:21:14 $EVOO SESSION START - 186944325 - OOCLIN 23:21:14 $EVOO PASSWORD Rejected allpftp 23:21:14 $EVOO 530 User [allpftp] account disabled or FTP disabled for this user. 23:21:14 $EVOO $EVOO FTP Logon Failure OOCLIN allpftp ... 23:23:18 $EVOO * Abending After Line Error 23:23:18 $EVOO * CHECKED OUT (ABENDING) Thank you, Daniel Bressler | Operations Support Specialist Kleinschmidt Inc. Direct: 847.597.1817 | Daniel_Bressler@Kleinschmidtinc.com Main Office 24/7: 847.945.1000 450 Lake Cook Rd | Deerfield, IL 60015 www.Kleinschmidt.com Please bookmark our NEW system status page: www.kleinschmidt-status.com",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/09/2026 13:56:33,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/09/2026 17:34:20,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/09/2026 17:34:18,,,,,End User,,ISDC,OPI,2026,10,41,,,
+SR-10369335,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),Re: 2335704690 was added to DD Internal Adjustments NAG [SR-10369062],Closed,General Inquiry,"Checked if file was sent for mentioned booking, ongoing coordination via email",MNL,PHILIPPINES,"Hi OOCL EDI Support, Please help to check and advise the delay delivery of VGM to terminal. Thanks. Should you have any further concerns, please feel free to let us know. Thanks and Regards, CargoSmart EDI Support From: JANE CHEN (SHPSM-SDLS-ISD-OOCLL/ZHA) <jane.chen@oocl.com> Sent: 08 October 2026 12:09 To: CSEDISUPP/CargoSmart EDI Support Team <CS_EDISUPP@cargosmart.com> Cc: OOCLSUPP/OOCLL Support <support@oocl.com>; IR4SHPSUP/IRIS-4 Shipment Support <ir4shpsup@oocl.com> Subject: RE: 2335704690 was added to DD Internal Adjustments NAG [SR-10368707] E[SR-10368722] hi EDI Support, Booking 2335704690 received the VGM from CS-Online on time. The VGM was received on 11 Aug 2026 19:45:27 (GMT). That is 12 Aug 2026 03:45:27(CST). According to the container history, the EDI was sent out from IR4 on time. Please help to check why the VGM was delivered to the terminal late? Best Regards, Jane From: OOCLSUPP/OOCLL Support <support@oocl.com> Sent: Thursday, October 8, 2026 10:28 AM To: IR4SHPSUP/IRIS-4 Shipment Support <ir4shpsup@oocl.com> Cc: OOCLSUPP/OOCLL Support <support@oocl.com> Subject: RE: 2335704690 was added to DD Internal Adjustments NAG [SR-10368707] E[SR-10368722] Hi IR4SHPSUP, Could you please investigate the VGM transmission from our side to the terminal for booking 2335704690? We were informed that the VGM was not transmitted to the terminal system in a timely manner. Thank you. Regards, Honey OOCL Support From: CSEDISUPP/CargoSmart EDI Support Team <CS_EDISUPP@cargosmart.com> Sent: Thursday, October 8, 2026 6:23 AM To: NADISPDD/NAG DD Disputes <NADISPDD@oocl.com>; OOCLSUPP/OOCLL Support <support@oocl.com> Cc: CSEDISUPP/CargoSmart EDI Support Team <CS_EDISUPP@cargosmart.com> Subject: Re: 2335704690 was added to DD Internal Adjustments NAG [SR-10368707] E[SR-10368722] Hello NADISPDD , OOCL supp VGM was successfully sent from CSonline to OOCL on 11 August. Any subsequent transmission from OOCL to the terminal is outside our scope. Could OOCL support please investigate and advise? Thanks Best Regards, Bonald Leung CargoSmart EDI Support From: NADISPDD/NAG DD Disputes <NADISPDD@oocl.com> Sent: 08 October 2026 06:02 To: CSEDISUPP/CargoSmart EDI Support Team <CS_EDISUPP@cargosmart.com> Subject: FW: 2335704690 was added to DD Internal Adjustments NAG Hello, Customer submitted VGM for booking 2335704690 on 08/11 however, VGM did not transmit to terminal in time. Please check and advise what error caused VGM to not transmit to terminal system in a timely manner. Irone Magnus Sr. Detention & Demurrage Analyst, OOCL (USA) Inc. T: 888-388-6625 E: NADISPDD@oocl.com | W: www.oocl.com A: 10913 South River Front Parkway, Suite 200, South Jordan, Utah 84095 From: NICHOLAS NORMAN (CSV-OUI/SLC) <nicholas.norman@oocl.com> Sent: Tuesday, October 6, 2026 6:09 PM To: NADISPDD/NAG DD Disputes <NADISPDD@oocl.com> Subject: RE: 2335704690 was added to DD Internal Adjustments NAG Hi Irone, EOC would be the advising party if VGM was missing on day of cutoff; however, they were not aware of missing VGM in terminal system. As noted in the attached, EOC was not included in the communication chain with the terminal and the Export teams. 1st attachment is the correspondence with EOC, where they confirm iris shows it received on 8/11. 2nd attachment is between terminal and Export teams. This was provided by EOC when Cleanup questioned why booking was rolled. Based on this, it appears there was an EDI issue between our system and terminal. Let me know if you have any questions. Nicholas Norman Customer Service Assistant Manager, OOCL (USA) Inc. T: 888-388-OOCL (6625) | M: 385-296-7840 E: Nicholas.Norman@oocl.com | W: www.oocl.com Click here for Earliest Terminal Receiving Date information Click below links for quick cargo tracking and tracing: OOCL USA or OOCL Canada Click below to provide feedback or suggestions on our service: From: NADISPDD/NAG DD Disputes <NADISPDD@oocl.com> Sent: Tuesday, October 6, 2026 3:59 PM To: NICHOLAS NORMAN (CSV-OUI/SLC) <nicholas.norman@oocl.com> Subject: FW: 2335704690 was added to DD Internal Adjustments NAG Hi Nick, ",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/08/2026 15:51:36,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/09/2026 17:32:56,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/09/2026 17:32:54,,,,,End User,,ISDC,OPI,2026,10,41,,,
+SR-10367536,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),"No DATA or NOT UPDATE in MTL portal and eBCN for BKG: 2340056920-0, 2340443600-0/tpc1/OOCL AMERICA 199N/CHL4-OAE-199 N",Closed,General Inquiry,Checked if correct vessel voyage details were sent and if files were sent successfully,MNL,PHILIPPINES,"Dear MTL helpdesk and OOCL/EDISUPP, Please assist to check the error for the BKG: 2340056920-0, 2340443600-0 which we tried to resend the EDI data to MTL . We tried to resend the EDI this morning 09:36 and 09:38 but the data is still not received by MTL. Please check immediate as the customer are unable to laden return now. Thanks. -- 非办公时间紧急服务及联络电话: 852-9095 3900 周一至周五 ：17:30-19:30 周六，周日及公众假期 ：09:00-17:00 Emergency mobile service for non-office hours, please contact: 852-90953900 Monday – Friday : 17:30-19:30 Saturday, Sunday & Public holiday : 09:00-17:00 -- Phoenix Chan Customer Service Department, OOCL Hong Kong Branch T: +852-25066883 After office hour emergency mobile: +852-90953900 E: hkgrtfc@oocl.com | W: www.oocl.com A: 16/F, One Harbour Square, 181 Hoi Bun Road, Kwun Tong, Kowloon, Hong Kong. 如果您有任何關於FreightSmart的疑問或者建議， 歡迎隨時聯繫我們的智能客服 - 小飛 您可以通過以下鏈接反饋您的寶貴建議 Hong Kong Counter office hour: Mon – Fri : 08:30 – 12:00 (document cutoff time 11:30) and Sat, Sun & Public holiday: Closed. 香港櫃檯服務時間：星期一至五: 早上8時30分至中午12時正(上午11時半截單) , 星期六，日及公眾假期休息",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/06/2026 15:04:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/06/2026 17:27:09,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/06/2026 17:27:09,,,,,End User,,ISDC,OPI,2026,10,41,,,
+SR-10366662,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: DMN02 / PSGP-3PK-012 W,Closed,General Inquiry,"Checked if EDI files were received for mentioned container numbers, ongoing coordination via email",MNL,PHILIPPINES,"Adding @'SGPC-ApplicationTeam@globalpsa.com'@Kerby@Kishwar M Jafer@Mohammed E. Bakshi Please check below containers EDI generated from your side ? Dear @EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) Please verify sender SGP transmitted files for below containers COARRI ? Facility – DMN02 Syed Meeran Assistant Manager Operations Orient Overseas Cargo Line Co. Saudi Arabia T: +966 13 810 6400 Ext: 180 | M: +966 593876493 E: syed.meeran@oocl.com | W: www.oocl.com A: Saad Al Muammar Business Centre, 6th Floor, Room 609 Khaleej Road, Ash Shati Al Gharbi, Dammam From: OOCLEDCAP4/OOCL EDC - AP Region 4 <OOCLEDCAP4@oocl.com> Sent: Friday, October 2, 2026 9:52 AM To: OSAUOPS/OSAU OPERATIONS TEAM <OSAUOPS@oocl.com> Subject: DMN02 / PSGP-3PK-012 W Dear team Please kindly check missing EDI. Thanks. DMN02 CAIU705555-8 Discharge DMN02 CSGU632919-1 Discharge DMN02 CSNU701549-2 Discharge DMN02 CSNU897711-9 Discharge DMN02 FFAU624596-0 Discharge DMN02 FSCU847610-0 Discharge DMN02 OOCU586126-0 Discharge DMN02 OOCU634685-6 Discharge DMN02 OOCU693104-3 Discharge DMN02 OOCU698119-4 Discharge DMN02 OOCU804030-9 Discharge DMN02 OOCU949250-9 Discharge DMN02 OOLU960333-7 Discharge DMN02 TCKU775597-2 Discharge DMN02 TIIU518658-8 Discharge Best regards Sophia Jiang(Ms.) Dual Brand Equipment Data Center",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/05/2026 14:27:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/05/2026 16:56:53,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/05/2026 16:56:53,,,,,End User,,ISDC,OPI,2026,10,41,,,
+SR-10366642,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),RE: OOCL Daily activity report 15-09.2026,Closed,General Inquiry,"Checked if mentioned files were received on our end, ongoing coordination via email",MNL,PHILIPPINES,"Hi edi team Please check attached edi files, which received from vendor MZS & help share findings. Tamseel Ahmed Farooqui (Mr.) AGM Operations & Equipment OOCL Pakistan Pvt Ltd. T: 92-21-35147989-99 Ext: (611) E: karops@oocl.com | W: www.oocl.com A: Office Address: 6-A, 6th Floor Bahria Complex IV, Ch Khaliq-uz-Zaman Road, Gizri, Karachi-75600. From: fsd@mzs.com.pk <fsd@mzs.com.pk> Sent: Saturday, October 3, 2026 9:33 AM To: TAMSEEL FAROOQUI (MGT-OPS-OPPL/KAR) <tamseel.farooqui@oocl.com>; EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) <EDISUPP@oocl.com>; ops@mzs.com.pk; ceo@mzs.com.pk; info@mzs.com.pk; khi@mzs.com.pk; KAROPS/OPPL Operations <KAROPS@oocl.com> Cc: OOCLEDCAP2/OOCL EDC - AP Region 2 <OOCLEDCAP2@oocl.com>; opedisp@oocl.com Subject: RE: OOCL Daily activity report 15-09.2026 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Dear Sir, Please check new 12-09-2026 codeco file . With Best Regards, AHTISHAM ASIF (Operation Dept;) Mob# 0300-8213840 Malik Zahoor Sons MZS Container Terminals & Transport Services MZS Container Terminals & Transport Services Ghona Road near FDPT, Faisalabad. 38000 E.mail:- fsd@mzs.com.pk MOB:- 0300-8213840 PTCL:- 041-8563031 In case of any inconvenience, please feel free to contact with our CEO on Cell # 0300-9662719 From: tamseel.farooqui@oocl.com [mailto:tamseel.farooqui@oocl.com] Sent: Saturday, October 03, 2026 2:07 AM To: EDISUPP@oocl.com; ops@mzs.com.pk; fsd@mzs.com.pk; ceo@mzs.com.pk; info@mzs.com.pk; khi@mzs.com.pk; KAROPS@oocl.com Cc: OOCLEDCAP2@oocl.com; opedisp@oocl.com Subject: Re: OOCL Daily activity report 15-09.2026 Hi Ahtisham MZS Plz share required initially generated edi files of the boxes enable edisupp team to find root cause of the missing events. Thanks Regards Tamseel Ahmed Farooqui From: EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) <EDISUPP@oocl.com> Sent: Saturday, October 3, 2026 1:03 AM To: ops@mzs.com.pk <ops@mzs.com.pk>; TAMSEEL FAROOQUI (MGT-OPS-OPPL/KAR) <tamseel.farooqui@oocl.com>; fsd@mzs.com.pk <fsd@mzs.com.pk>; ceo@mzs.com.pk <ceo@mzs.com.pk>; info@mzs.com.pk <info@mzs.com.pk>; khi@mzs.com.pk <khi@mzs.com.pk>; KAROPS/OPPL Operations <KAROPS@oocl.com> Cc: OOCLEDCAP2/OOCL EDC - AP Region 2 <OOCLEDCAP2@oocl.com>; EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) <EDISUPP@oocl.com>; OPEDISP@oocl.com <opedisp@oocl.com> Subject: Re: OOCL Daily activity report 15-09.2026 Hi, @TAMSEEL / @fsd@mzs.com.pk, Upon verification, the provided EDI did not contain any of the containers mentioned below. Could you please provide the EDI including the Gate-In events for the containers listed below? Thank you. Best Regards, Mary Ann Velar OOCL - EDI SUPPORT From: TAMSEEL FAROOQUI (MGT-OPS-OPPL/KAR) <tamseel.farooqui@oocl.com> Sent: Saturday, October 3, 2026 2:00 AM To: fsd@mzs.com.pk <fsd@mzs.com.pk>; ceo@mzs.com.pk <ceo@mzs.com.pk>; EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) <EDISUPP@oocl.com>; info@mzs.com.pk <info@mzs.com.pk>; khi@mzs.com.pk <khi@mzs.com.pk> Cc: KAROPS/OPPL Operations <KAROPS@oocl.com>; OOCLEDCAP2/OOCL EDC - AP Region 2 <OOCLEDCAP2@oocl.com>; ops@mzs.com.pk <ops@mzs.com.pk> Subject: Re: OOCL Daily activity report 15-09.2026 Ocl edi team Plz help checking the issue to resolve. Thanks Regards Tamseel Ahmed Farooqui From: fsd@mzs.com.pk <fsd@mzs.com.pk> Sent: Friday, October 2, 2026 6:27 PM To: ceo@mzs.com.pk <ceo@mzs.com.pk>; TAMSEEL FAROOQUI (MGT-OPS-OPPL/KAR) <tamseel.farooqui@oocl.com>; EDISUPP/MNL EDI Support (ISD-OOCLL/MNL) <EDISUPP@oocl.com>; info@mzs.com.pk <info@mzs.com.pk>; khi@mzs.com.pk <khi@mzs.com.pk> Cc: KAROPS/OPPL Operations <KAROPS@oocl.com>; OOCLEDCAP2/OOCL EDC - AP Region 2 <OOCLEDCAP2@oocl.com>; ops@mzs.com.pk <ops@mzs.com.pk> Subject: RE: OOCL Daily activity report 15-09.2026 CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Dear Sir, Please re-check the both TRHU5371425, CCLU7313713 containers listed in the September 12 EDI. Additionally,",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/05/2026 13:57:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/05/2026 16:53:38,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/05/2026 16:53:38,,,,,End User,,ISDC,OPI,2026,10,41,,,
+SR-10366601,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),PRR - CONTAINER OWNERSHIP CONFIRMATION,Closed,General Inquiry,Provided requested details,MNL,PHILIPPINES,"CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Hello Team, Good Day 😊 We are reaching you to get a confirmation for the containers are on-hired/leased/owned by OCL, since we have received an EDI batch in DPW PRINCE RUPERT for the session name CNR322IN. S.No. CONTAINER NUMBER STATUS 1 CSLU2235429 2 CSLU2303652 3 CSNU1056940 4 CSNU1526617 5 CSNU1955360 6 DFSU1341392 7 FCIU5910739 8 FTAU1627525 9 OOLU2176830 10 TGBU2338815 11 TLLU3032420 12 UETU2519872 13 CSLU2061250 14 CSLU6256878 15 CSNU6649039 16 CSNU7264448 17 CSNU7309650 18 CSNU8449929 19 FSCU9355037 20 MAGU5668764 21 OOLU9460982 22 TEMU6152958 23 TRHU5364555 24 TRHU6971851 25 UETU7420373 Batch Number (Internal Reference) – 17591497. Thanks in advance for your kind cooperation. Thanks & Regards, Jaganathan.",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/05/2026 13:16:32,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/05/2026 16:51:56,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/05/2026 16:51:55,,,,,End User,,ISDC,OPI,2026,10,41,,,
+SR-10366600,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),PRR - CONTAINER OWNERSHIP CONFIRMATION,Closed,General Inquiry,Provided requested details,MNL,PHILIPPINES,"CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Hello Team, Good Day 😊 We are reaching you to get a confirmation for the following container# CAIU8845644 is on-hired/leased/owned by OCL, since we have received an EDI batch in DPW PRINCE RUPERT for the session name CNR322_IN. Batch Number (Internal Reference) – 17584380. Thanks in advance for your kind cooperation. With Best Regards, Jaganathan.",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/05/2026 13:16:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/05/2026 16:50:01,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/05/2026 16:50:00,,,,,End User,,ISDC,OPI,2026,10,41,,,
+SR-10366595,3,B2B | OOCL GEDI Vendor (Application),B2B | OOCL GEDI Vendor (Application),[OSP Ticket] Booking Re-extraction for NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG)/KMT/IFTMBC,Closed,General Inquiry,Booking re-extraction,MNL,PHILIPPINES,"Hi EDISUPP, This email is automated to be transferred to our OSP Ticket Creator folder for Ticket Creation. Please see the reprocess details below to log in the OSP: Ticket Details: Requested By: NOOR AINA MOHAMAD NASIRUDDIN (MARINE-OPS-OMSB/PKG) Selected Partner and Message Type: KMT/IFTMBC Timestamp: 2026-10-05 11:16:08 AM Booking Numbers: 2338997450 Thank you, EREA",,,,,EDISUPP/MNL EDI SUPPORT (ISD-OOCLL/MNL),10/05/2026 13:07:31,System,OOCL,Issue/Incident,,GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),GEDI,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/05/2026 16:48:21,Email,CYRUS KATIGBAC (B2BGEDI-BCBSS-ISD-OOCLL/MNL),10/05/2026 16:48:20,,,,,End User,,ISDC,OPI,2026,10,41,,,
